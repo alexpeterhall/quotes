@@ -158,12 +158,13 @@ Imagine what you could accomplish if you weren't focused on being busy all the t
 
 ## Falsehoods / Truth
 
-Three men make a tiger. - Chinese Proverb
+"Three men make a tiger." - Chinese Proverb
 "A reliable way to make people believe in falsehoods is frequent repetition, because familiarity is not easily distinguished from truth." - Daniel Kahneman.
 "The fewer the facts, the stronger the opinion." - Arnold H. Glasow
 "The fact that we live at the bottom of a deep gravity well, on the surface of a gas-covered planet going around a nuclear fireball 90 million miles away and think this to be normal, is obviously some indication of how skewed our perspective tends to be." - Douglas Adams, author (11 Mar 1952-2001)
 "You are seeing everything in the mirror of your mind, and the mirror is wonky. First, fix it." - Sadhguru
 "You can’t reason someone out of something they didn’t reason themselves into." - Unknown
+" Where it is a duty to worship the sun, it is pretty sure to be a crime to examine the laws of heat." - John Morley, statesman and writer (24 Dec 1838-1923)
 
 ## Leadership
 
@@ -197,10 +198,6 @@ A man who does not prepare his son for his own death, has failed as a father.
 **Boomerang Effect:** Trying to persuade someone to do one thing can make them more likely to do the opposite, because the act of persuasion can feel like someone stealing your freedom and doing the opposite makes you feel like you're taking your freedom back.
 
 A careful man I want to be — a little fellow follows me. I do not dare to go astray, for fear he'll go the self-same way. I cannot once escape his eyes. Whatever he sees me do he tries. Like me he says he's going to be — that little chap who follows me… He knows that I am big and fine — And believes in every word of mine. The base in me he must not see — that little chap who follows me… But after all it's easier, that brighter road to climb, With little hands behind me — to push me all the time. And I reckon I'm a better man than what I used to be… Because I have this lad at home who thinks the world of me.
-
-## Marriage
-
-"As in tennis, if one partner stops hitting the ball back, the other soon stops playing tennis." - Dr. Paul O
 
 ## Life
 
@@ -244,6 +241,10 @@ In a consumer society there are inevitably two kinds of slaves: the prisoners of
 "You are not what you think you are, but what you think, you are." - Brian Tracy
 "Complaining is not a strategy. You have to work with the world as you find it, not as you would have it be." - Jeff Bezos
 "There are a few times in life when you leap up and the past that you'd been standing on falls away behind you, and the future you mean to land on is not yet in place, and for a moment you're suspended knowing nothing and no one, not even yourself." - Ann Patchett, writer (b. 2 Dec 1963)
+"As in tennis, if one partner stops hitting the ball back, the other soon stops playing tennis." - Dr. Paul O
+"The greatest of faults, I should say, is to be conscious of none." - Thomas Carlyle
+"Life is like stepping onto a boat which is about to sail out to sea and sink." ― Zen Master Shunryu Suzuki
+"If they give you ruled paper, write the other way." - Juan Ramon Jimenez, poet, Nobel Prize in literature (23 Dec 1881-1958)
 
 ## Death
 
