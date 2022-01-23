@@ -23,8 +23,9 @@ Sometimes the only thing you can control is your behavior and attitude. - 13 Thi
 "Nothing is a greater impediment to being on good terms with others than being ill at ease with yourself." — Honoré de Balzac
 "Every part of our personality that we do not love will become hostile to us." - Robert Bly
 "The curious paradox is that when I accept myself just as I am, then I can change." — Carl Rogers
-Actor-Observer Asymmetry: We judge others based solely on their actions, but when judging ourselves we have an internal dialogue that justifies our mistakes and bad decisions.
 "When people seem like they are mean, they're almost never mean. They're anxious." - Alain de Botton
+
+Actor-Observer Asymmetry: We judge others based solely on their actions, but when judging ourselves we have an internal dialogue that justifies our mistakes and bad decisions.
 
 ## Peace of mind
 
@@ -96,7 +97,8 @@ The power of the spoken word is like a bullet leaving a rifle. Once it's said it
 "A mature person is one who does not think only in absolutes, who is able to be objective even when deeply stirred emotionally, who has learned that there is both good and bad in all people and in all things, and who walks humbly and deals charitably with the circumstances of life, knowing that in this world no one is all knowing and therefore all of us need both love and charity." - Eleanor Roosevelt, diplomat and writer (11 Oct 1884-1962)
 "The human mind is inspired enough when it comes to inventing horrors; it is when it tries to invent a heaven that it shows itself cloddish." - Evelyn Waugh, novelist (28 Oct 1903-1966)
 "A lack of patience changes the outcome." - Farnam Street
-Happiness is a choice and a skill.
+"Happiness is a choice and a skill." - Naval Ravikant
+"The lust for comfort murders the passions of the soul." - Kahlil Gibran, mystic, poet, and artist (6 Jan 1883-1931)
 
 ## Decision Making / Strategy
 
@@ -110,6 +112,7 @@ If you do what everyone else is doing, you shouldn't be surprised to get the sam
 "Retreat, hell! We're not retreating, we're just advancing in a different direction." - Oliver P. Smith - Four Star General - US Marine Corp
 People waste years because they won't waste hours.
 "A change in perspective is worth 80 IQ points." - Alan Kay, computer scientist (b. 17 May 1940)
+"Only when the tide goes out do you discover who's been swimming naked." - Warren Buffet
 
 ## Obstacles / Adversity / Resilience
 
@@ -142,11 +145,14 @@ The pity party was not well attended.
 "Success comes to the lowly and to the poorly talented, but the special characteristic of a great person is to triumph over the disasters and panics of human life." - Seneca, On Providence, 4.1
 "Inaction breeds doubt and fear. Action breeds confidence and courage. If you want to conquer the negative elements in your life, don't sit at home and think about it. Go out and get busy!" — Dale Carnegie
 "It is a crime to despair. We must learn to draw from misfortune the means of future strength." - Winston Churchill
+"The soul would have no rainbow had the eyes no tears." - John Vance Cheney, poet (29 Dec 1848-1922)
+"Continuous effort -- not strength or intelligence -- is the key to unlocking our potential." - Winston Churchill
+"Smooth seas don't make for skillful sailors." - African Proverb
 
 ## Focus
 
 "Unless you do the right things, the right things will not happen to you." - Sadhguru
-"What information consumes is rather obvious: it consumes the attention of its recipients. Hence a wealth of information creates a poverty of attention." - Herbert Simon
+"What information consumes is rather obvious: it consumes the attention of its recipients. Hence a wealth of information creates a poverty of attention, and a need to allocate that attention efficiently among the overabundance of information sources that might consume it." - Herbert Simon
 "In a world deluged by irrelevant information, clarity is power." - Yuval Harari
 If more information was the answer, then we'd all be billionaires with perfect abs. - Unknown
 "If you learn something slowly, you forget it slowly. If you learn something very quickly, you forget it almost immediately." - Itzhak Perlman
@@ -165,6 +171,7 @@ Imagine what you could accomplish if you weren't focused on being busy all the t
 "You are seeing everything in the mirror of your mind, and the mirror is wonky. First, fix it." - Sadhguru
 "You can’t reason someone out of something they didn’t reason themselves into." - Unknown
 " Where it is a duty to worship the sun, it is pretty sure to be a crime to examine the laws of heat." - John Morley, statesman and writer (24 Dec 1838-1923)
+"Where there is perception there, is deception." - via Thich Nhat Hanh
 
 ## Leadership
 
@@ -194,10 +201,9 @@ The tougher I am on you, the easier your life will be. The easier I go on you, t
 A man who does not prepare his son for his own death, has failed as a father.
 "When you raise your kids, you're the bow, they're the arrow, and you just try to aim them in the best direction that you can, and hopefully your aim isn't too off." - Jamie Foxx
 "Every father should remember one day his son will follow his example, not his advice." - Charles Kettering
+"Children have never been very good at listening to their elders, but they have never failed to imitate them." - James Baldwin
 
 **Boomerang Effect:** Trying to persuade someone to do one thing can make them more likely to do the opposite, because the act of persuasion can feel like someone stealing your freedom and doing the opposite makes you feel like you're taking your freedom back.
-
-A careful man I want to be — a little fellow follows me. I do not dare to go astray, for fear he'll go the self-same way. I cannot once escape his eyes. Whatever he sees me do he tries. Like me he says he's going to be — that little chap who follows me… He knows that I am big and fine — And believes in every word of mine. The base in me he must not see — that little chap who follows me… But after all it's easier, that brighter road to climb, With little hands behind me — to push me all the time. And I reckon I'm a better man than what I used to be… Because I have this lad at home who thinks the world of me.
 
 ## Life
 
@@ -245,6 +251,11 @@ In a consumer society there are inevitably two kinds of slaves: the prisoners of
 "The greatest of faults, I should say, is to be conscious of none." - Thomas Carlyle
 "Life is like stepping onto a boat which is about to sail out to sea and sink." ― Zen Master Shunryu Suzuki
 "If they give you ruled paper, write the other way." - Juan Ramon Jimenez, poet, Nobel Prize in literature (23 Dec 1881-1958)
+"In the case of good books, the point is not how many of them you can get through, but rather how many can get through to you." - Mortimer J. Adler, philosopher, educator, and author (28 Dec 1902-2001)
+"The most important discoveries will provide answers to questions that we do not yet know how to ask and will concern objects we have not yet imagined." - John N. Bahcall, astrophysicist (30 Dec 1935-2005)
+"When there’s a piano to be moved, don’t reach for the stool." - Unknown
+"You are a great man; but how am I to know it, if fortune gives you no opportunity of showing your virtue? For a man cannot know himself without trial. No one ever learnt what he could do without putting himself to the test." - Seneca
+"Act as if what you do makes a difference. It does." - William James, psychologist (11 Jan 1842-1910)
 
 ## Death
 
@@ -274,6 +285,7 @@ The most powerful productivity tool ever invented is simply the word "no".
 "The supreme accomplishment is to blur the line between work and play." - Arnold J. Toynbee, historian (14 Apr 1889-1975)
 "Vocations which we wanted to pursue, but didn't, bleed, like colors, on the whole of our existence." - Honore de Balzac, novelist (20 May 1799-1850)
 "The heaviness of being successful was replaced by the lightness of being a beginner again, less sure about everything. It freed me to enter into one of the most creative periods of my life." - Steve Jobs
+"A tremendous amount of work and preparation goes into becoming an overnight success." - Unknown
 
 ## Politics
 
@@ -288,6 +300,7 @@ Laws are like cobwebs which may catch small flies, but let wasps and hornets bre
 ## Modesty / Humbleness
 
 "Wear your learning, like your watch, in a private pocket, and do not pull it out and strike it merely to show you have one. If you are asked what o'clock it is, tell it, but do not proclaim it hourly and unasked, like the watchman." - Lord Chesterfield, statesman and writer (22 Sep 1694-1773)
+"Always remember that to argue, and win, is to break down the reality of the person you are arguing against. It is painful to lose your reality, so be kind, even if you are right." - Haruki Murakami
 
 ## Philosophy
 
@@ -337,3 +350,30 @@ It's mind over matter. If you don't mind, it doesn't matter.
 T, W, D, H: Thoughts, Words, Deeds, Habits
 You can't fix a broken car with new hubcaps.
 If you chase two rabbits, you will not catch any.
+
+## Poems
+
+### The Laughing Heart
+
+your life is your life
+don’t let it be clubbed into dank submission.
+be on the watch.
+there are ways out.
+there is light somewhere.
+it may not be much light but
+it beats the darkness.
+be on the watch.
+the gods will offer you chances.
+know them.
+take them.
+you can’t beat death but
+you can beat death in life, sometimes.
+and the more often you learn to do it,
+the more light there will be.
+your life is your life.
+know it while you have it.
+you are marvelous
+the gods wait to delight
+in you.
+
+— Charles Bukowski
