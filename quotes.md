@@ -99,6 +99,7 @@ The power of the spoken word is like a bullet leaving a rifle. Once it's said it
 "A lack of patience changes the outcome." - Farnam Street
 "Happiness is a choice and a skill." - Naval Ravikant
 "The lust for comfort murders the passions of the soul." - Kahlil Gibran, mystic, poet, and artist (6 Jan 1883-1931)
+"No one is useless in this world who lightens the burden of it for anyone else." - Charles Dickens, novelist (7 Feb 1812-1870)
 
 ## Decision Making / Strategy
 
@@ -148,6 +149,7 @@ The pity party was not well attended.
 "The soul would have no rainbow had the eyes no tears." - John Vance Cheney, poet (29 Dec 1848-1922)
 "Continuous effort -- not strength or intelligence -- is the key to unlocking our potential." - Winston Churchill
 "Smooth seas don't make for skillful sailors." - African Proverb
+"To bear up under loss, to fight the bitterness of defeat and the weakness of grief, to be victor over anger, to smile when tears are close, to resist evil men and base instincts, to hate hate and to love love, to go on when it would seem good to die, to seek ever after the glory and the dream, to look up with unquenchable faith in something evermore about to be, that is what any man can do, and so be great." - Zane Grey, author (31 Jan 1872-1939)
 
 ## Focus
 
@@ -256,6 +258,9 @@ In a consumer society there are inevitably two kinds of slaves: the prisoners of
 "When there’s a piano to be moved, don’t reach for the stool." - Unknown
 "You are a great man; but how am I to know it, if fortune gives you no opportunity of showing your virtue? For a man cannot know himself without trial. No one ever learnt what he could do without putting himself to the test." - Seneca
 "Act as if what you do makes a difference. It does." - William James, psychologist (11 Jan 1842-1910)
+"Nothing ever comes to one, that is worth having, except as a result of hard work." - Booker T. Washington
+"The secret of joy is the mastery of pain." - Anais Nin, writer (21 Feb 1903-1977)
+"Not being able to govern events, I govern myself." - Michel de Montaigne, essayist (28 Feb 1533-1592)
 
 ## Death
 
@@ -286,6 +291,7 @@ The most powerful productivity tool ever invented is simply the word "no".
 "Vocations which we wanted to pursue, but didn't, bleed, like colors, on the whole of our existence." - Honore de Balzac, novelist (20 May 1799-1850)
 "The heaviness of being successful was replaced by the lightness of being a beginner again, less sure about everything. It freed me to enter into one of the most creative periods of my life." - Steve Jobs
 "A tremendous amount of work and preparation goes into becoming an overnight success." - Unknown
+"Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to a focus." - Alexander Graham Bell, inventor (3 Mar 1847-1922)
 
 ## Politics
 
@@ -301,6 +307,7 @@ Laws are like cobwebs which may catch small flies, but let wasps and hornets bre
 
 "Wear your learning, like your watch, in a private pocket, and do not pull it out and strike it merely to show you have one. If you are asked what o'clock it is, tell it, but do not proclaim it hourly and unasked, like the watchman." - Lord Chesterfield, statesman and writer (22 Sep 1694-1773)
 "Always remember that to argue, and win, is to break down the reality of the person you are arguing against. It is painful to lose your reality, so be kind, even if you are right." - Haruki Murakami
+"The mark of the educated man is not in his boast that he has built his mountain of facts and stood on the top of it, but in his admission that there may be other peaks in the same range with men on the top of them, and that, though their views of the landscape may be different from his, they are nonetheless legitimate." - E.J. Pratt, poet (4 Feb 1882-1964)
 
 ## Philosophy
 
