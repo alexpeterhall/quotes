@@ -57,6 +57,7 @@ Actor-Observer Asymmetry: We judge others based solely on their actions, but whe
 "When you choose what media to consume, you are choosing your future thoughts and perspectives and opinions. And if you choose poorly, you will think poorly." - Marshall McLuhan
 "Contentment is, after all, simply refined indolence." - Thomas Chandler Haliburton, author, judge, and politician (17 Dec 1796-1865)
 "You cannot control the mind with the mind" - Unknown
+"The happiest is the person who suffers the least pain; the most miserable who enjoys the least pleasure." - Jean-Jacques Rousseau, philosopher and author (28 Jun 1712-1778)
 
 ## Living Right
 
@@ -100,6 +101,7 @@ The power of the spoken word is like a bullet leaving a rifle. Once it's said it
 "Happiness is a choice and a skill." - Naval Ravikant
 "The lust for comfort murders the passions of the soul." - Kahlil Gibran, mystic, poet, and artist (6 Jan 1883-1931)
 "No one is useless in this world who lightens the burden of it for anyone else." - Charles Dickens, novelist (7 Feb 1812-1870)
+"Freedom isn't secured by filling up on your heart's desire but by removing your desire." - Epictetus
 
 ## Decision Making / Strategy
 
@@ -150,6 +152,8 @@ The pity party was not well attended.
 "Continuous effort -- not strength or intelligence -- is the key to unlocking our potential." - Winston Churchill
 "Smooth seas don't make for skillful sailors." - African Proverb
 "To bear up under loss, to fight the bitterness of defeat and the weakness of grief, to be victor over anger, to smile when tears are close, to resist evil men and base instincts, to hate hate and to love love, to go on when it would seem good to die, to seek ever after the glory and the dream, to look up with unquenchable faith in something evermore about to be, that is what any man can do, and so be great." - Zane Grey, author (31 Jan 1872-1939)
+"You are a great man; but how am I to know it, if fortune gives you no opportunity of showing your virtue? For a man cannot know himself without trial. No one ever learnt what he could do without putting himself to the test." - Seneca
+"The secret of joy is the mastery of pain." - Anais Nin, writer (21 Feb 1903-1977)
 
 ## Focus
 
@@ -172,8 +176,13 @@ Imagine what you could accomplish if you weren't focused on being busy all the t
 "The fact that we live at the bottom of a deep gravity well, on the surface of a gas-covered planet going around a nuclear fireball 90 million miles away and think this to be normal, is obviously some indication of how skewed our perspective tends to be." - Douglas Adams, author (11 Mar 1952-2001)
 "You are seeing everything in the mirror of your mind, and the mirror is wonky. First, fix it." - Sadhguru
 "You can’t reason someone out of something they didn’t reason themselves into." - Unknown
-" Where it is a duty to worship the sun, it is pretty sure to be a crime to examine the laws of heat." - John Morley, statesman and writer (24 Dec 1838-1923)
-"Where there is perception there, is deception." - via Thich Nhat Hanh
+"Where it is a duty to worship the sun, it is pretty sure to be a crime to examine the laws of heat." - John Morley, statesman and writer (24 Dec 1838-1923)
+"Where there is perception, there is deception." - via Thich Nhat Hanh
+"There is more wisdom in your body than in your deepest philosophy." - Friedrich Nietzsche
+"Truth-tellers are not always palatable. There is a preference for candy bars." - Gwendolyn Brooks, poet (7 Jun 1917-2000)
+"I would rather have questions that can’t be answered than answers that can’t be questioned." - Richard Feynman
+"A great deal of intelligence can be invested in ignorance when the need for illusion is deep." - Saul Bellow, writer, Nobel laureate (10 Jun 1915-2005)
+"In a room where people unanimously maintain a conspiracy of silence, one word of truth sounds like a pistol shot." - Czeslaw Milosz, poet and novelist (30 Jun 1911-2004)
 
 ## Leadership
 
@@ -186,6 +195,7 @@ Imagine what you could accomplish if you weren't focused on being busy all the t
 
 ## Fatherhood / Parenting
 
+There is no stronger example than yourself. Remind yourself that your actions, perhaps more than anything else, are shaping the little person. Do your best, to be at your best.
 "Punishment teaches the child only how to punish. Scolding teaches him how to scold. By showing him that we understand, we teach him to understand. By helping him, we teach him to help. He learns cooperation by cooperating." - Dr. Ernst Papanek
 A father said to his son, "Be careful where you walk." The son responded, "You be careful, remember that I follow in your footsteps."
 "The best way of training the young is to train yourself at the same time; not to admonish them, but to be seen never doing that of which you would admonish them." - Plato
@@ -196,7 +206,6 @@ They're not giving you a hard time, they're having a hard time.
 It's hard being a little person. Be gentle and patient.
 Stop focusing on your day and start focusing on THEIR day.
 "He needs infinite patience and discipline." - John Steinbeck
-There is no stronger example than yourself. Remind yourself that your actions, perhaps more than anything else, are shaping the little person. Do your best, to be at your best.
 "Come on, gentlemen, let's attack this day with an enthusiasm unknown to mankind." - Jack Harbaugh
 "It's easier to build strong children than repair broken men." - Frederick Douglass
 The tougher I am on you, the easier your life will be. The easier I go on you, the tougher your life will be.
@@ -204,6 +213,7 @@ A man who does not prepare his son for his own death, has failed as a father.
 "When you raise your kids, you're the bow, they're the arrow, and you just try to aim them in the best direction that you can, and hopefully your aim isn't too off." - Jamie Foxx
 "Every father should remember one day his son will follow his example, not his advice." - Charles Kettering
 "Children have never been very good at listening to their elders, but they have never failed to imitate them." - James Baldwin
+"Few things can help an individual more than to place responsibility on him, and to let him know that you trust him." - Booker T. Washington, reformer, educator, and author (5 Apr 1856-1915)
 
 **Boomerang Effect:** Trying to persuade someone to do one thing can make them more likely to do the opposite, because the act of persuasion can feel like someone stealing your freedom and doing the opposite makes you feel like you're taking your freedom back.
 
@@ -256,11 +266,27 @@ In a consumer society there are inevitably two kinds of slaves: the prisoners of
 "In the case of good books, the point is not how many of them you can get through, but rather how many can get through to you." - Mortimer J. Adler, philosopher, educator, and author (28 Dec 1902-2001)
 "The most important discoveries will provide answers to questions that we do not yet know how to ask and will concern objects we have not yet imagined." - John N. Bahcall, astrophysicist (30 Dec 1935-2005)
 "When there’s a piano to be moved, don’t reach for the stool." - Unknown
-"You are a great man; but how am I to know it, if fortune gives you no opportunity of showing your virtue? For a man cannot know himself without trial. No one ever learnt what he could do without putting himself to the test." - Seneca
 "Act as if what you do makes a difference. It does." - William James, psychologist (11 Jan 1842-1910)
 "Nothing ever comes to one, that is worth having, except as a result of hard work." - Booker T. Washington
-"The secret of joy is the mastery of pain." - Anais Nin, writer (21 Feb 1903-1977)
 "Not being able to govern events, I govern myself." - Michel de Montaigne, essayist (28 Feb 1533-1592)
+"For sleep, riches, and health to be truly enjoyed, they must be interrupted." - Jean Paul Richter, writer (21 Mar 1763-1825)
+"All I can do when the road bends; Is lean into the curve. And all I can do when the tank's run dry; Is see what's in reserve. And all I can do when the plans break down; Is stay on my feet. And all I can do at thе end of the day is play on; Play on and keep the beat" - Lin-Manuel Miranda (Keep the Beat from Vivo)
+"Wise men learn more from fools than fools from the wise." - Cato
+"Like our stomachs, our minds are hurt more often by overeating than by hunger." — Petrarch
+"There is far more to life than getting things done." - Jon Kabat-Zinn
+"Lots of times you have to pretend to join a parade in which you're not really interested in order to get where you're going." - Christopher Morley, writer (5 May 1890-1957)
+"Do not think of knocking out another person's brains because he differs in opinion from you. It would be as rational to knock yourself on the head because you differ from yourself ten years ago." - Horace Mann, educational reformer (4 May 1796-1859)
+"It is easy in the world to live after the world's opinion, it is easy in solitude to live after your own; but the great man is he who, in the midst of the world, keeps with perfect sweetness the independence of solitude." - Ralph Waldo Emerson, writer and philosopher (25 May 1803-1882)
+"I remember my grandfather telling me how each of us must live with a full measure of loneliness that is inescapable, and we must not destroy ourselves with our passion to escape the aloneness." — Jim Harrison
+"No one can make you feel inferior without your consent." — Eleanor Roosevelt
+"Fearing no insult, asking for no crown, receive with indifference both flattery and slander, and do not argue with a fool." - Aleksandr Pushkin, poet, novelist, and playwright (6 Jun 1799-1837)
+"Everyone confesses that exertion which brings out all the powers of body and mind is the best thing for us; but most people do all they can to get rid of it, and as a general rule nobody does much more than circumstances drive them to do." - Harriet Beecher Stowe, abolitionist and novelist (14 Jun 1811-1896)
+"Forgiveness is accepting the apology you will never receive." - Shawne Duperon
+"Pray, verb. To ask the laws of the universe to be annulled on behalf of a single petitioner confessedly unworthy." - Ambrose Bierce, writer (24 Jun 1842-1914)
+"It's like, at the end, there's this surprise quiz: Am I proud of me? I gave my life to become the person I am right now. Was it worth what I paid?" - Richard Bach, writer (b. 23 Jun 1936)
+"The most exhausting thing in life is being insincere." - Anne Morrow Lindbergh, writer (22 Jun 1906-2001)
+"The road to hell is not paved with good intentions. It is paved with lack of intention." - Dr. Gabor Maté
+"It is never my custom to use words lightly. If twenty-seven years in prison have done anything to us, it was to use the silence of solitude to make us understand how precious words are and how real speech is in its impact on the way people live and die." - Nelson Mandela, activist, South African president, Nobel laureate (18 Jul 1918-2013)
 
 ## Death
 
@@ -286,7 +312,7 @@ Treat everyone like an unfinished product.
 The most powerful productivity tool ever invented is simply the word "no".
 "If I am so smart. Why am I not winning?" - Jocko Then check your ego and go build relationships with people you may not like and accomplish the mission
 "Never go to sleep without a request to your subconscious." - Thomas Edison
-"Successful people are influenced by the desire for pleasing results. Failures are influenced by the desire for pleasing methods and are included to be satisﬁed with such results as can be obtained by doing things they like to do." - The Common Denominator of Success, by Albert E. N. Gray
+"Successful people are influenced by the desire for pleasing results. Failures are influenced by the desire for pleasing methods and are included to be satisfied with such results as can be obtained by doing things they like to do." - The Common Denominator of Success, by Albert E. N. Gray
 "The supreme accomplishment is to blur the line between work and play." - Arnold J. Toynbee, historian (14 Apr 1889-1975)
 "Vocations which we wanted to pursue, but didn't, bleed, like colors, on the whole of our existence." - Honore de Balzac, novelist (20 May 1799-1850)
 "The heaviness of being successful was replaced by the lightness of being a beginner again, less sure about everything. It freed me to enter into one of the most creative periods of my life." - Steve Jobs
@@ -302,18 +328,14 @@ There is no such thing as not voting: you either vote by voting, or you vote by 
 Laws are like cobwebs which may catch small flies, but let wasps and hornets break through. - Jonathan Swift, satirist (30 Nov 1667-1745)
 "If only the sun-drenched celebrities are being noticed and worshiped, then our children are going to have a tough time seeing the value in the shadows, where the thinkers, probers, and scientists are keeping society together." - Rita Dove, poet (b. 28 Aug 1952)
 "The smart way to keep people passive and obedient is to strictly limit the spectrum of acceptable opinion, but allow very lively debate within that spectrum -- even encourage the more critical and dissident views. That gives people the sense that there's free thinking going on, while all the time the presuppositions of the system are being reinforced by the limits put on the range of the debate." - Noam Chomsky, linguistics professor and political activist (b. 7 Dec 1928)
+"The tax which will be paid for the purpose of education is not more than the thousandth part of what will be paid to kings, priests, and nobles who will rise up among us if we leave the people in ignorance." - Thomas Jefferson, third US president, architect, and author (13 Apr 1743-1826)
+"Compassion is not weakness and concern for the unfortunate is not socialism." - Hubert Humphrey, US Vice President (27 May 1911-1978)
 
 ## Modesty / Humbleness
 
 "Wear your learning, like your watch, in a private pocket, and do not pull it out and strike it merely to show you have one. If you are asked what o'clock it is, tell it, but do not proclaim it hourly and unasked, like the watchman." - Lord Chesterfield, statesman and writer (22 Sep 1694-1773)
 "Always remember that to argue, and win, is to break down the reality of the person you are arguing against. It is painful to lose your reality, so be kind, even if you are right." - Haruki Murakami
 "The mark of the educated man is not in his boast that he has built his mountain of facts and stood on the top of it, but in his admission that there may be other peaks in the same range with men on the top of them, and that, though their views of the landscape may be different from his, they are nonetheless legitimate." - E.J. Pratt, poet (4 Feb 1882-1964)
-
-## Philosophy
-
-"There is more wisdom in your body than in your deepest philosophy." - Friedrich Nietzsche
-"Wise men learn more from fools than fools from the wise." - Cato
-"Like our stomachs, our minds are hurt more often by overeating than by hunger." — Petrarch
 
 ## Minimalism
 
