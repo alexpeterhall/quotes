@@ -15,6 +15,7 @@ Sometimes the only thing you can control is your behavior and attitude. - 13 Thi
 "Run down the list of those who felt intense anger at something: the most famous, the most unfortunate, the most hated, the most whatever: Where is all that now? Smoke, dust, legend... or not even a legend." "Eventually, all of us will pass away and slowly be forgotten. We should enjoy this brief time we have on earth - not be enslaved to emotions that make us miserable and dissatisfied." - Ryan Holiday / Marcus Aurelius
 "Repeatedly Marcus warns himself that anger and grief only serve to make bad situations worse. Being pissed off that someone was rude to you isn't soothing — it's agitating. Being sad that you've lost something doesn't bring it back, it exaggerates your sense of loss. It's like the first rule of holes: When you're in one, stop digging." - Ryan Holiday
 "The half-life of negative emotions is incredibly short. If you stop thinking about what made you upset." - Sam Harris
+"If someone succeeds in provoking you, realize that your mind is complicit in the provocation." - Epictetus
 
 ## Love / Goodness
 
@@ -58,6 +59,7 @@ Actor-Observer Asymmetry: We judge others based solely on their actions, but whe
 "Contentment is, after all, simply refined indolence." - Thomas Chandler Haliburton, author, judge, and politician (17 Dec 1796-1865)
 "You cannot control the mind with the mind" - Unknown
 "The happiest is the person who suffers the least pain; the most miserable who enjoys the least pleasure." - Jean-Jacques Rousseau, philosopher and author (28 Jun 1712-1778)
+"The only Zen you find on the tops of mountains is the Zen you bring up there." - Robert M. Pirsig, author and philosopher (6 Sep 1928-2017)
 
 ## Living Right
 
@@ -102,6 +104,8 @@ The power of the spoken word is like a bullet leaving a rifle. Once it's said it
 "The lust for comfort murders the passions of the soul." - Kahlil Gibran, mystic, poet, and artist (6 Jan 1883-1931)
 "No one is useless in this world who lightens the burden of it for anyone else." - Charles Dickens, novelist (7 Feb 1812-1870)
 "Freedom isn't secured by filling up on your heart's desire but by removing your desire." - Epictetus
+"The only man I know who behaves sensibly is my tailor; he takes my measurements anew each time he sees me. The rest go on with their old measurements and expect me to fit them." ​— George Bernard Shaw
+"The past is to be respected and acknowledged, but not to be worshipped. It is our future in which we will find our greatness." - Pierre Trudeau, 15th Prime Minister of Canada (18 Oct 1919-2000)
 
 ## Decision Making / Strategy
 
@@ -192,6 +196,7 @@ Imagine what you could accomplish if you weren't focused on being busy all the t
 "Detach. Look around. Make a call." - Jocko Willink
 "When Alexander the Great visited Diogenes and asked whether he could do anything for the famed teacher, Diogenes replied: "Only stand out of my light." Perhaps some day we shall know how to heighten creativity. Until then, one of the best things we can do for creative men and women is to stand out of their light." - John W. Gardner, author and educator (8 Oct 1912-2002)
 "One cannot hire a hand; the whole man always comes with it." - Peter Drucker, management consultant, professor, and writer (19 Nov 1909-2005)
+"Not all readers are leaders, but all leaders are readers." - Harry Truman
 
 ## Fatherhood / Parenting
 
@@ -214,6 +219,7 @@ A man who does not prepare his son for his own death, has failed as a father.
 "Every father should remember one day his son will follow his example, not his advice." - Charles Kettering
 "Children have never been very good at listening to their elders, but they have never failed to imitate them." - James Baldwin
 "Few things can help an individual more than to place responsibility on him, and to let him know that you trust him." - Booker T. Washington, reformer, educator, and author (5 Apr 1856-1915)
+"What a child doesn't receive he can seldom later give." - P.D. James (Phyllis Dorothy James), novelist (3 Aug 1920-2014)
 
 **Boomerang Effect:** Trying to persuade someone to do one thing can make them more likely to do the opposite, because the act of persuasion can feel like someone stealing your freedom and doing the opposite makes you feel like you're taking your freedom back.
 
@@ -287,6 +293,11 @@ In a consumer society there are inevitably two kinds of slaves: the prisoners of
 "The most exhausting thing in life is being insincere." - Anne Morrow Lindbergh, writer (22 Jun 1906-2001)
 "The road to hell is not paved with good intentions. It is paved with lack of intention." - Dr. Gabor Maté
 "It is never my custom to use words lightly. If twenty-seven years in prison have done anything to us, it was to use the silence of solitude to make us understand how precious words are and how real speech is in its impact on the way people live and die." - Nelson Mandela, activist, South African president, Nobel laureate (18 Jul 1918-2013)
+"I imagine one of the reasons people cling to their hates so stubbornly is because they sense, once hate is gone, they will be forced to deal with pain." - James Baldwin, writer (2 Aug 1924-1987)
+"Forgiveness means giving up all hope for a better past." - Someone
+"There will come a time when you believe everything is finished. That will be the beginning." - Louis L'Amour
+"You desire to know the art of living, my friend? It is contained in one phrase: make use of suffering." - Henri Frederic Amiel, philosopher and writer (27 Sep 1821-1881)
+"It is by character and not by intellect the world is won." - Evelyn Beatrice Hall, biographer (28 Sep 1868-1956)
 
 ## Death
 
@@ -342,6 +353,7 @@ Laws are like cobwebs which may catch small flies, but let wasps and hornets bre
 "Too many people spend money they haven't earned, to buy things they don't want, to impress people they don't like." - Will Rogers, humorist (4 Nov 1879-1935)
 "Possessions are generally diminished by possession." - Friedrich Nietzsche
 "We are brainwashed by our economic system until we end up in a tomb beneath a pyramid of time payments, mortgages, preposterous gadgetry, playthings that divert our attention from the sheer idiocy of the charade. The years thunder by. The dreams of youth grow dim where they lie caked in dust on the shelves of patience. Before we know it, the tomb is sealed." - Sterling Hayden, actor, author, and WWII veteran (26 Mar 1916-1986)
+"Before we set our hearts too much on anything, let us examine how happy are those who already possess it." - Francois, duc de La Rochefoucauld, moralist (15 Sep 1613-1680)
 
 ## Programming
 
