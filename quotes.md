@@ -8,7 +8,7 @@
 "A gentle answer turns away wrath, but harsh words turns up anger." - Proverbs 15:1
 "For every minute you remain angry, you give up sixty seconds of peace of mind." - Ralph Waldo Emerson
 "And why should we feel anger at the world? As if the world would notice!" - Euripides
-Sometimes the only thing you can control is your behavior and attitude. - 13 Things Mentally Strong People Don't Do
+"Sometimes the only thing you can control is your behavior and attitude." - 13 Things Mentally Strong People Don't Do
 "A man is about as big as the things that make him angry." - Sir Winston Churchill
 "Keep this thought handy when you feel a fit of rage coming on -- it isn't manly to be enraged. Rather, gentleness and civility are more human, and therefore manlier. A real man doesn't give way to anger and discontent, and such a person has strength, courage, and endurance - unlike the angry and complaining. The nearer a man comes to a calm mind, the closer he is to strength." - Marcus Aurelius
 "When someone gets mad at you, de-escalate. When you feel yourself getting spun up, detach." - Jocko Willink
@@ -16,6 +16,7 @@ Sometimes the only thing you can control is your behavior and attitude. - 13 Thi
 "Repeatedly Marcus warns himself that anger and grief only serve to make bad situations worse. Being pissed off that someone was rude to you isn't soothing — it's agitating. Being sad that you've lost something doesn't bring it back, it exaggerates your sense of loss. It's like the first rule of holes: When you're in one, stop digging." - Ryan Holiday
 "The half-life of negative emotions is incredibly short. If you stop thinking about what made you upset." - Sam Harris
 "If someone succeeds in provoking you, realize that your mind is complicit in the provocation." - Epictetus
+"Anger is punishment that you lay upon yourself for stupidity of others."
 
 ## Love / Goodness
 
@@ -25,8 +26,6 @@ Sometimes the only thing you can control is your behavior and attitude. - 13 Thi
 "Every part of our personality that we do not love will become hostile to us." - Robert Bly
 "The curious paradox is that when I accept myself just as I am, then I can change." — Carl Rogers
 "When people seem like they are mean, they're almost never mean. They're anxious." - Alain de Botton
-
-Actor-Observer Asymmetry: We judge others based solely on their actions, but when judging ourselves we have an internal dialogue that justifies our mistakes and bad decisions.
 
 ## Peace of mind
 
@@ -38,7 +37,7 @@ Actor-Observer Asymmetry: We judge others based solely on their actions, but whe
 "Progress is impossible without change, and those who cannot change their minds cannot change anything." - George Bernard Shaw
 "We suffer more in imagination than in reality." - Seneca
 "There is good in everything, if only we look for it." - Laura Ingalls Wilder
-"To a disciple who was forever complaining about others, the Master said, ‘If it is peace you want, seek to change yourself, not other people. It is easier to protect your feet with slippers than to carpet the whole of the earth.'" — Anthony de Mello
+"To a disciple who was forever complaining about others, the Master said, 'If it is peace you want, seek to change yourself, not other people. It is easier to protect your feet with slippers than to carpet the whole of the earth.'" — Anthony de Mello
 "Are you committed to being happy, no matter what happens to you?" - Tony Robbins
 "Do not spoil what you have by desiring what you have not; remember that what you now have was once among the things you only hoped for." - Epicurus
 "To enjoy life, you don't need fancy nonsense, but you do need to control your time and realize that most things just aren't as serious as you make them out to be." - Tim Ferriss
@@ -104,20 +103,21 @@ The power of the spoken word is like a bullet leaving a rifle. Once it's said it
 "The lust for comfort murders the passions of the soul." - Kahlil Gibran, mystic, poet, and artist (6 Jan 1883-1931)
 "No one is useless in this world who lightens the burden of it for anyone else." - Charles Dickens, novelist (7 Feb 1812-1870)
 "Freedom isn't secured by filling up on your heart's desire but by removing your desire." - Epictetus
-"The only man I know who behaves sensibly is my tailor; he takes my measurements anew each time he sees me. The rest go on with their old measurements and expect me to fit them." ​— George Bernard Shaw
+"The only man I know who behaves sensibly is my tailor; he takes my measurements anew each time he sees me. The rest go on with their old measurements and expect me to fit them." - George Bernard Shaw
 "The past is to be respected and acknowledged, but not to be worshipped. It is our future in which we will find our greatness." - Pierre Trudeau, 15th Prime Minister of Canada (18 Oct 1919-2000)
+"His mother had often said, When you choose an action, you choose the consequences of that action. She had emphasized the corollary of this axiom even more vehemently: when you desired a consequence you had damned well better take the action that would create it." - Lois McMaster Bujold, writer (b. 2 Nov 1949)
 
 ## Decision Making / Strategy
 
 "Mimicking the herd invites regression to the mean." - Charlie Munger
-If you do what everyone else is doing, you shouldn't be surprised to get the same results everyone else is getting.
+"If you do what everyone else is doing, you shouldn't be surprised to get the same results everyone else is getting."
 "Many a false step was made by standing still." - Fortune Cookie
 "If you want to make the wrong decision, ask everyone." - Naval Ravikant
 "Failing to consider second, and third-order consequences is the cause of a lot of painfully bad decisions, and it is especially deadly when the first inferior option confirms your own biases. Never seize on the first available option, no matter how good it seems, before you've asked questions and explored." - Ray Dalio
 "If everything you do needs to work on a three-year time horizon, then you're competing against a lot of people. But if you're willing to invest on a seven-year time horizon, you're now competing against a fraction of those people, because very few companies are willing to do that." ― Jeff Bezos
 "Prioritization often matters more than productivity. Getting the right things done slowly is still much more effective than getting the wrong things done quickly." - Taylor Pearson
 "Retreat, hell! We're not retreating, we're just advancing in a different direction." - Oliver P. Smith - Four Star General - US Marine Corp
-People waste years because they won't waste hours.
+"People waste years because they won't waste hours."
 "A change in perspective is worth 80 IQ points." - Alan Kay, computer scientist (b. 17 May 1940)
 "Only when the tide goes out do you discover who's been swimming naked." - Warren Buffet
 
@@ -127,8 +127,8 @@ People waste years because they won't waste hours.
 "Everything that hurts us, everything that is some way negative in a given situation, whether you will become wise or become wounded is your choice." - Sadhguru
 "How does it help, to make troubles heavier by bemoaning them?" - Seneca
 "If only you can go through difficult times with inner grace, you will see that every situation we face is an opportunity to enhance our lives." - Sadhguru
-Create small victories anywhere you can to keep moral up.
-You're in control of how you respond to the ups and downs of life. You're in control of how you talk to yourself.
+"Create small victories anywhere you can to keep moral up."
+"You're in control of how you respond to the ups and downs of life. You're in control of how you talk to yourself."
 "When you're up to your nose in shit, keep your mouth shut." - Jack Beauregard in My Name is Nobody (1973), played by Henry Fonda
 "How do you choose to suffer?"
 "Pain is inevitable. Suffering is optional."
@@ -158,6 +158,8 @@ The pity party was not well attended.
 "To bear up under loss, to fight the bitterness of defeat and the weakness of grief, to be victor over anger, to smile when tears are close, to resist evil men and base instincts, to hate hate and to love love, to go on when it would seem good to die, to seek ever after the glory and the dream, to look up with unquenchable faith in something evermore about to be, that is what any man can do, and so be great." - Zane Grey, author (31 Jan 1872-1939)
 "You are a great man; but how am I to know it, if fortune gives you no opportunity of showing your virtue? For a man cannot know himself without trial. No one ever learnt what he could do without putting himself to the test." - Seneca
 "The secret of joy is the mastery of pain." - Anais Nin, writer (21 Feb 1903-1977)
+"In the gap between who we wish one day to be and who we are at present, must come pain, anxiety, envy and humiliation." - Alain de Botton
+"'What is the secret of your serenity?' Said the Master, 'Wholehearted cooperation with the inevitable.'" — Anthony de Mello
 
 ## Focus
 
@@ -171,6 +173,7 @@ Imagine what you could accomplish if you weren't focused on being busy all the t
 "In a world of distraction, single-tasking is a super power." - Tim Ferris
 "Sit, sit. Walk, walk. Don't wobble." - Zen proverb
 "Choose the pain of discipline, not the pain of regret." - Derek Sivers
+"If you’re thinking without writing, you only think you’re thinking." - Leslie Lamport
 
 ## Falsehoods / Truth
 
@@ -197,12 +200,13 @@ Imagine what you could accomplish if you weren't focused on being busy all the t
 "When Alexander the Great visited Diogenes and asked whether he could do anything for the famed teacher, Diogenes replied: "Only stand out of my light." Perhaps some day we shall know how to heighten creativity. Until then, one of the best things we can do for creative men and women is to stand out of their light." - John W. Gardner, author and educator (8 Oct 1912-2002)
 "One cannot hire a hand; the whole man always comes with it." - Peter Drucker, management consultant, professor, and writer (19 Nov 1909-2005)
 "Not all readers are leaders, but all leaders are readers." - Harry Truman
+"If you hire only those people you understand, the company will never get people better than you are. Always remember that you often find outstanding people among those you don't particularly like." - Soichiro Honda, industrialist (17 Nov 1906-1991)
 
 ## Fatherhood / Parenting
 
 There is no stronger example than yourself. Remind yourself that your actions, perhaps more than anything else, are shaping the little person. Do your best, to be at your best.
 "Punishment teaches the child only how to punish. Scolding teaches him how to scold. By showing him that we understand, we teach him to understand. By helping him, we teach him to help. He learns cooperation by cooperating." - Dr. Ernst Papanek
-A father said to his son, "Be careful where you walk." The son responded, "You be careful, remember that I follow in your footsteps."
+"A father said to his son, 'Be careful where you walk.' The son responded, 'You be careful, remember that I follow in your footsteps.'"
 "The best way of training the young is to train yourself at the same time; not to admonish them, but to be seen never doing that of which you would admonish them." - Plato
 The Spartan King Agesilaus was once asked, almost 2500 years ago now, what children should be taught, to which he replied, "What they will also use when they become men."
 "You must raise only cattle and sheep. You don't raise human beings. You have to cultivate a human being." - Sadhguru
@@ -298,6 +302,7 @@ In a consumer society there are inevitably two kinds of slaves: the prisoners of
 "There will come a time when you believe everything is finished. That will be the beginning." - Louis L'Amour
 "You desire to know the art of living, my friend? It is contained in one phrase: make use of suffering." - Henri Frederic Amiel, philosopher and writer (27 Sep 1821-1881)
 "It is by character and not by intellect the world is won." - Evelyn Beatrice Hall, biographer (28 Sep 1868-1956)
+"If I'm going to die, the best way to prepare is to quiet my mind and open my heart. If I'm going to live, the best is to quiet my mind and open my heart." - Ram Dass
 
 ## Death
 
@@ -329,6 +334,7 @@ The most powerful productivity tool ever invented is simply the word "no".
 "The heaviness of being successful was replaced by the lightness of being a beginner again, less sure about everything. It freed me to enter into one of the most creative periods of my life." - Steve Jobs
 "A tremendous amount of work and preparation goes into becoming an overnight success." - Unknown
 "Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to a focus." - Alexander Graham Bell, inventor (3 Mar 1847-1922)
+"Don’t aim at success—the more you aim at it and make it a target, the more you are going to miss it. For success, like happiness, cannot be pursued; it must ensue, and it only does so as the unintended side-effect of one’s dedication." - Viktor Frankl
 
 ## Politics
 
@@ -347,6 +353,8 @@ Laws are like cobwebs which may catch small flies, but let wasps and hornets bre
 "Wear your learning, like your watch, in a private pocket, and do not pull it out and strike it merely to show you have one. If you are asked what o'clock it is, tell it, but do not proclaim it hourly and unasked, like the watchman." - Lord Chesterfield, statesman and writer (22 Sep 1694-1773)
 "Always remember that to argue, and win, is to break down the reality of the person you are arguing against. It is painful to lose your reality, so be kind, even if you are right." - Haruki Murakami
 "The mark of the educated man is not in his boast that he has built his mountain of facts and stood on the top of it, but in his admission that there may be other peaks in the same range with men on the top of them, and that, though their views of the landscape may be different from his, they are nonetheless legitimate." - E.J. Pratt, poet (4 Feb 1882-1964)
+"A fool is known by his speech, and a wise man by silence." - Pythagoras
+"Those who know do not talk. Those who talk do not know." - Lao Tzu
 
 ## Minimalism
 
@@ -362,6 +370,7 @@ Laws are like cobwebs which may catch small flies, but let wasps and hornets bre
 
 ## Misc
 
+"You have to hold your audience in writing to the very end -- much more than in talking, when people have to be polite and listen to you." -Brenda Ueland, writer (24 Oct 1891-1985)
 "A motorcycle is a bicycle with a pandemonium attachment and is designed for the especial use of mechanical geniuses, daredevils, and lunatics." - George Fitch - (Motorcycles) [https://cdnc.ucr.edu/?a=d&d=SFC19120610.2.78&e=-------en--20--1--txt-txIN--------1]
 
 ## Aphorisms
