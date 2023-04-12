@@ -106,6 +106,10 @@ The power of the spoken word is like a bullet leaving a rifle. Once it's said it
 "The only man I know who behaves sensibly is my tailor; he takes my measurements anew each time he sees me. The rest go on with their old measurements and expect me to fit them." - George Bernard Shaw
 "The past is to be respected and acknowledged, but not to be worshipped. It is our future in which we will find our greatness." - Pierre Trudeau, 15th Prime Minister of Canada (18 Oct 1919-2000)
 "His mother had often said, When you choose an action, you choose the consequences of that action. She had emphasized the corollary of this axiom even more vehemently: when you desired a consequence you had damned well better take the action that would create it." - Lois McMaster Bujold, writer (b. 2 Nov 1949)
+"Do not confuse effort with results. Just because you put in the effort does not mean you'll get the desired result. Results are accumulated in drops but lost in buckets. Make sure you're not undoing the things you're trying to accomplish." - Shane Parrish
+"Too often we underestimate the power of a touch, a smile, a kind word, a listening ear, an honest compliment, or the smallest act of caring, all of which have the potential to turn a life around." -Leo Buscaglia, author, speaker and professor (31 Mar 1924-1998)
+"Nature never said to me: Do not be poor. Still less did she say: Be rich. Her cry to me was always: Be independent." - Nicolas de Chamfort, writer (6 Apr 1741-1794)
+"Who are we but the stories we tell ourselves, about ourselves, and believe?" - Scott Turow, author and lawyer (b. 12 Apr 1949)
 
 ## Decision Making / Strategy
 
@@ -160,6 +164,11 @@ The pity party was not well attended.
 "The secret of joy is the mastery of pain." - Anais Nin, writer (21 Feb 1903-1977)
 "In the gap between who we wish one day to be and who we are at present, must come pain, anxiety, envy and humiliation." - Alain de Botton
 "'What is the secret of your serenity?' Said the Master, 'Wholehearted cooperation with the inevitable.'" — Anthony de Mello
+"When I started counting my blessings, my whole life turned around." - Willie Nelson
+"It takes two things to bowl over a tree — a heavy wind outside and decay inside. Much of the moral wreckage is caused by inner cynicism — a disgust with life's futility, an inability to see sense in it. A person in that mood is an easy mark for the next high wind." - Art Sisson
+"Your success and happiness lies in you. Resolve to keep happy, and your joy and you shall form an invincible host against difficulties." - Helen Keller
+"Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy." - Thich Nhat Hanh
+"It's never too late - never too late to start over, never too late to be happy." - Jane Fonda
 
 ## Focus
 
@@ -174,6 +183,7 @@ Imagine what you could accomplish if you weren't focused on being busy all the t
 "Sit, sit. Walk, walk. Don't wobble." - Zen proverb
 "Choose the pain of discipline, not the pain of regret." - Derek Sivers
 "If you’re thinking without writing, you only think you’re thinking." - Leslie Lamport
+"Bitter are the roots of study, but how sweet their fruit." - Cato
 
 ## Falsehoods / Truth
 
@@ -182,7 +192,7 @@ Imagine what you could accomplish if you weren't focused on being busy all the t
 "The fewer the facts, the stronger the opinion." - Arnold H. Glasow
 "The fact that we live at the bottom of a deep gravity well, on the surface of a gas-covered planet going around a nuclear fireball 90 million miles away and think this to be normal, is obviously some indication of how skewed our perspective tends to be." - Douglas Adams, author (11 Mar 1952-2001)
 "You are seeing everything in the mirror of your mind, and the mirror is wonky. First, fix it." - Sadhguru
-"You can’t reason someone out of something they didn’t reason themselves into." - Unknown
+"You can't reason someone out of something they didn't reason themselves into." - Unknown
 "Where it is a duty to worship the sun, it is pretty sure to be a crime to examine the laws of heat." - John Morley, statesman and writer (24 Dec 1838-1923)
 "Where there is perception, there is deception." - via Thich Nhat Hanh
 "There is more wisdom in your body than in your deepest philosophy." - Friedrich Nietzsche
@@ -240,7 +250,7 @@ A man who does not prepare his son for his own death, has failed as a father.
 "Pure hell forces action, but anything less can be endured with enough clever rationalization." - Tim Ferriss
 "There are only three sports: bullfighting, motor racing, and mountaineering; all the rest are merely games." - Ernest Hemingway
 "Whether you think you can or you think you can't, you are right." - Henry Ford
-"Do not give what is holy to the dogs; nor cast your pearls before swine, lest they trample them under their feet, and turn and tear you in pieces." Matthew 7:6
+"Do not give what is holy to the dogs; nor cast your pearls before swine, lest they trample them under their feet, and turn and tear you in pieces." - Matthew 7:6
 "If the first thing you do each morning is to eat a live frog, you can go through the day with the satisfaction of knowing that that is probably the worse things that is going to happen to you all day long." - Mark Twain
 "A society that separates its scholars from its warriors, will have its thinking done by cowards and its fighting done by fools." - Thucydides
 In a consumer society there are inevitably two kinds of slaves: the prisoners of addiction and the prisoners of envy. - Ivan Illich, philosopher and priest (4 Sep 1926-2002)
@@ -303,6 +313,15 @@ In a consumer society there are inevitably two kinds of slaves: the prisoners of
 "You desire to know the art of living, my friend? It is contained in one phrase: make use of suffering." - Henri Frederic Amiel, philosopher and writer (27 Sep 1821-1881)
 "It is by character and not by intellect the world is won." - Evelyn Beatrice Hall, biographer (28 Sep 1868-1956)
 "If I'm going to die, the best way to prepare is to quiet my mind and open my heart. If I'm going to live, the best is to quiet my mind and open my heart." - Ram Dass
+"The problem is no longer getting people to express themselves but providing little gaps of solitude and silence in which they might eventually find something to say. … What a relief to have nothing to say, the right to say nothing, because only then is there a chance of framing … the thing that might be worth saying."​ - Gilles Deleuze
+"You must live in the present, launch yourself on every wave, find your eternity in each moment. Fools stand on their island of opportunities and look toward another land. There is no other land; there is no other life but this." - Henry David Thoreau
+"Life is not about expecting, hoping, and wishing. It is about doing, being, and becoming." - Mike Dooley
+"If the world seems cold to you, kindle fires to warm it." - Lucy Larcom
+"When one door closes another door opens; but we so often look so long and so regretfully upon the closed door, that we do not see the ones which open for us." - Alexander Graham Bell, inventor (3 Mar 1847-1922)
+"If only we'd stop trying to be happy, we could have a pretty good time." - Edith Wharton
+"You do not find the happy life. You make it." - Camilla Eyring Kimball
+"It's not enough to learn how to ride; you must also learn how to fall." - Mexican proverb
+"A man has to live with himself, and he should see to it that he always has good company." - Charles Evans Hughes, jurist (11 Apr 1862-1948)
 
 ## Death
 
@@ -335,6 +354,7 @@ The most powerful productivity tool ever invented is simply the word "no".
 "A tremendous amount of work and preparation goes into becoming an overnight success." - Unknown
 "Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to a focus." - Alexander Graham Bell, inventor (3 Mar 1847-1922)
 "Don’t aim at success—the more you aim at it and make it a target, the more you are going to miss it. For success, like happiness, cannot be pursued; it must ensue, and it only does so as the unintended side-effect of one’s dedication." - Viktor Frankl
+"Recently, I was asked if I was going to fire an employee who made a mistake that cost the company $600,000. No, I replied, I just spent $600,000 training him. Why would I want somebody to hire his experience?" -Thomas J. Watson, Chairman and CEO of IBM (17 Feb 1874-1956)
 
 ## Politics
 
@@ -347,6 +367,9 @@ Laws are like cobwebs which may catch small flies, but let wasps and hornets bre
 "The smart way to keep people passive and obedient is to strictly limit the spectrum of acceptable opinion, but allow very lively debate within that spectrum -- even encourage the more critical and dissident views. That gives people the sense that there's free thinking going on, while all the time the presuppositions of the system are being reinforced by the limits put on the range of the debate." - Noam Chomsky, linguistics professor and political activist (b. 7 Dec 1928)
 "The tax which will be paid for the purpose of education is not more than the thousandth part of what will be paid to kings, priests, and nobles who will rise up among us if we leave the people in ignorance." - Thomas Jefferson, third US president, architect, and author (13 Apr 1743-1826)
 "Compassion is not weakness and concern for the unfortunate is not socialism." - Hubert Humphrey, US Vice President (27 May 1911-1978)
+"The crucial disadvantage of aggression, competitiveness, and skepticism as national characteristics is that these qualities cannot be turned off at five o'clock." - Margaret Halsey, novelist (13 Feb 1910-1997)
+"The souls of emperors and cobblers are cast in the same mold. The same reason that makes us wrangle with a neighbor creates a war between princes." -Michel de Montaigne, essayist (28 Feb 1533-1592)
+"The fetters imposed on liberty at home have ever been forged out of the weapons provided for defence against real, pretended, or imaginary dangers from abroad." - James Madison, 4th US president (16 Mar 1751-1836)
 
 ## Modesty / Humbleness
 
@@ -355,6 +378,10 @@ Laws are like cobwebs which may catch small flies, but let wasps and hornets bre
 "The mark of the educated man is not in his boast that he has built his mountain of facts and stood on the top of it, but in his admission that there may be other peaks in the same range with men on the top of them, and that, though their views of the landscape may be different from his, they are nonetheless legitimate." - E.J. Pratt, poet (4 Feb 1882-1964)
 "A fool is known by his speech, and a wise man by silence." - Pythagoras
 "Those who know do not talk. Those who talk do not know." - Lao Tzu
+
+## Buddhism
+
+"Moment after moment, everyone comes out from nothingness. This is the true joy of life." - Shunryu Suzuki
 
 ## Minimalism
 
@@ -370,5 +397,5 @@ Laws are like cobwebs which may catch small flies, but let wasps and hornets bre
 
 ## Misc
 
-"You have to hold your audience in writing to the very end -- much more than in talking, when people have to be polite and listen to you." -Brenda Ueland, writer (24 Oct 1891-1985)
+"You have to hold your audience in writing to the very end -- much more than in talking, when people have to be polite and listen to you." - Brenda Ueland, writer (24 Oct 1891-1985)
 "A motorcycle is a bicycle with a pandemonium attachment and is designed for the especial use of mechanical geniuses, daredevils, and lunatics." - George Fitch - (Motorcycles) [https://cdnc.ucr.edu/?a=d&d=SFC19120610.2.78&e=-------en--20--1--txt-txIN--------1]
