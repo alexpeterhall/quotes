@@ -169,6 +169,7 @@ The pity party was not well attended.
 "Your success and happiness lies in you. Resolve to keep happy, and your joy and you shall form an invincible host against difficulties." - Helen Keller
 "Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy." - Thich Nhat Hanh
 "It's never too late - never too late to start over, never too late to be happy." - Jane Fonda
+"Most men pursue pleasure with such breathless haste that they hurry past it." - Søren Kierkegaard
 
 ## Focus
 
@@ -322,6 +323,8 @@ In a consumer society there are inevitably two kinds of slaves: the prisoners of
 "You do not find the happy life. You make it." - Camilla Eyring Kimball
 "It's not enough to learn how to ride; you must also learn how to fall." - Mexican proverb
 "A man has to live with himself, and he should see to it that he always has good company." - Charles Evans Hughes, jurist (11 Apr 1862-1948)
+"It is from hardship rather than ease that we gather wisdom. We need to develop the capacity to draw strength from our hardships." - Aung San Suu Kyi, Nobel Peace Prize laurate
+"So act that your principle of action might safely be made a law for the whole world." - Immanuel Kant, philosopher (21 Apr 1724-1804)
 
 ## Death
 
@@ -370,6 +373,7 @@ Laws are like cobwebs which may catch small flies, but let wasps and hornets bre
 "The crucial disadvantage of aggression, competitiveness, and skepticism as national characteristics is that these qualities cannot be turned off at five o'clock." - Margaret Halsey, novelist (13 Feb 1910-1997)
 "The souls of emperors and cobblers are cast in the same mold. The same reason that makes us wrangle with a neighbor creates a war between princes." -Michel de Montaigne, essayist (28 Feb 1533-1592)
 "The fetters imposed on liberty at home have ever been forged out of the weapons provided for defence against real, pretended, or imaginary dangers from abroad." - James Madison, 4th US president (16 Mar 1751-1836)
+"Civilizations in decline are consistently characterised by a tendency towards standardization and uniformity." - Arnold Toynbee, historian (14 Apr 1889-1975)
 
 ## Modesty / Humbleness
 
@@ -382,6 +386,7 @@ Laws are like cobwebs which may catch small flies, but let wasps and hornets bre
 ## Buddhism
 
 "Moment after moment, everyone comes out from nothingness. This is the true joy of life." - Shunryu Suzuki
+"If you understand, things are just as they are. If you do not understand, things are just as they are." - Zen Proverb
 
 ## Minimalism
 
