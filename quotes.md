@@ -17,6 +17,8 @@
 "The half-life of negative emotions is incredibly short. If you stop thinking about what made you upset." - Sam Harris
 "If someone succeeds in provoking you, realize that your mind is complicit in the provocation." - Epictetus
 "Anger is punishment that you lay upon yourself for stupidity of others."
+"I feel fairly certain that my hatred harms me more than the people whom I hate." -Max Frisch, architect, playwright, and novelist (15 May 1911-1991)
+"Every time you find yourself irritated or angry with someone, the one to look at is not that person but yourself. The question to ask is not, 'What's wrong with this person?' but 'What does this irritation tell me about myself?'" - Anthony de Mello
 
 ## Love / Goodness
 
@@ -26,6 +28,7 @@
 "Every part of our personality that we do not love will become hostile to us." - Robert Bly
 "The curious paradox is that when I accept myself just as I am, then I can change." — Carl Rogers
 "When people seem like they are mean, they're almost never mean. They're anxious." - Alain de Botton
+"I told him that in every family there are times when there is hurt, anger, alienation, but we cannot run away from our family. We have only one family, so we must make every effort to be reconciled." - Joseph Cardinal Bernardin, former Archbishop of Chicago
 
 ## Peace of mind
 
@@ -110,6 +113,10 @@ The power of the spoken word is like a bullet leaving a rifle. Once it's said it
 "Too often we underestimate the power of a touch, a smile, a kind word, a listening ear, an honest compliment, or the smallest act of caring, all of which have the potential to turn a life around." -Leo Buscaglia, author, speaker and professor (31 Mar 1924-1998)
 "Nature never said to me: Do not be poor. Still less did she say: Be rich. Her cry to me was always: Be independent." - Nicolas de Chamfort, writer (6 Apr 1741-1794)
 "Who are we but the stories we tell ourselves, about ourselves, and believe?" - Scott Turow, author and lawyer (b. 12 Apr 1949)
+"If any man seeks for greatness, let him forget greatness and ask for truth, and he will find both." - Horace Mann, educational reformer (4 May 1796-1859)
+"How can we expect righteousness to prevail when there is hardly anyone willing to give himself up individually to a righteous cause... It is such a splendid sunny day, and I have to go. But how many have to die on the battlefield in these days, how many young, promising lives. What does my death matter if by our acts thousands are warned and alerted." - Sophie Scholl, student and anti-Nazi activist (9 May 1921-1943) [Her last words before being executed by guillotine.]
+"Those who are happiest are those who do the most for others." - Booker T. Washington
+"Nothing is worth more than this day." - Johann Wolfgang von Goethe
 
 ## Decision Making / Strategy
 
@@ -127,21 +134,24 @@ The power of the spoken word is like a bullet leaving a rifle. Once it's said it
 
 ## Obstacles / Adversity / Resilience
 
-"A certain amount of opposition is a great help to a man. Kites rise against, not with, the wind." - John Neal, author and critic (25 Aug 1793-1876)
+"Hope begins in the dark, the stubborn hope that if you just show up and try to do the right thing, the dawn will come." - Anne Lamott
+"You don't always need a plan. Sometimes you just need to breathe, trust, let go, and see what happens." - Mandy Hale
+"My barn having burned down, I can now see the moon." - Mizuta Masahide (17th century Japanese poet and samurai)
 "Everything that hurts us, everything that is some way negative in a given situation, whether you will become wise or become wounded is your choice." - Sadhguru
+"It's not what happens to you, but how you react to it that matters." - Epictetus
 "How does it help, to make troubles heavier by bemoaning them?" - Seneca
 "If only you can go through difficult times with inner grace, you will see that every situation we face is an opportunity to enhance our lives." - Sadhguru
+"What matters most is how well you walk through the fire." - Charles Bukowski
+"Those things that hurt, instruct." - Benjamin Franklin
+"A certain amount of opposition is a great help to a man. Kites rise against, not with, the wind." - John Neal, author and critic (25 Aug 1793-1876)
 "Create small victories anywhere you can to keep moral up."
 "You're in control of how you respond to the ups and downs of life. You're in control of how you talk to yourself."
 "When you're up to your nose in shit, keep your mouth shut." - Jack Beauregard in My Name is Nobody (1973), played by Henry Fonda
 "How do you choose to suffer?"
 "Pain is inevitable. Suffering is optional."
 "Stick with the situation at hand. Why is this so unbearable? Why can't I endure it? You'll be embarrassed to answer." - Marcus Aurelius
-The pity party was not well attended.
-"What matters most is how well you walk through the fire." - Charles Bukowski
-"Those things that hurt, instruct." - Benjamin Franklin
+"The pity party was not well attended."
 "Happy events make life delightful but they do not lead to self-discovery and growth and freedom. That privilege is reserved to the things and persons and situations that cause us pain." - Anthony De Mello
-"It's not what happens to you, but how you react to it that matters." - Epictetus
 "Demand not that events should happen as you wish; but wish them to happen as they do happen, and your life will be serene." - Epictetus
 "The best things are the most difficult." - Plutarch
 "The greatest danger that may befall anyone, is to fall into a rut." - Frank H. Cheley
@@ -150,7 +160,6 @@ The pity party was not well attended.
 "No plan survives contact with the enemy." - Helmuth von Moltke the Elder
 "Stop your entitled fucking whining and seize the opportunities around you." - Pat Mcnamara
 "Persistence and resilience only come from having been given the chance to work through difficult problems." - Gever Tulley
-"My barn having burned down, I can now see the moon." - Mizuta Masahide (17th century Japanese poet and samurai)
 "There is a realization from which all potential personal growth emerges. This is the realization that you are responsible for everything you do in your life, no matter the external circumstances."
 "That you will have some hard times and some discouraging times I have no question; but this is merely another way of saying that you will share the common lot." - Theodore Roosevelt in a letter to his son Theodore III
 "Success comes to the lowly and to the poorly talented, but the special characteristic of a great person is to triumph over the disasters and panics of human life." - Seneca, On Providence, 4.1
@@ -170,6 +179,10 @@ The pity party was not well attended.
 "Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy." - Thich Nhat Hanh
 "It's never too late - never too late to start over, never too late to be happy." - Jane Fonda
 "Most men pursue pleasure with such breathless haste that they hurry past it." - Søren Kierkegaard
+"Above all, be the heroine of your life, not the victim." - Nora Ephron
+"When things go bad, don't go with them." - Elvis Presley
+"Never give up, for that is just the place and time that the tide will turn." - Harriet Beecher Stowe
+"Stay close to anything that makes you glad that you're alive." - Hafez
 
 ## Focus
 
@@ -325,6 +338,8 @@ In a consumer society there are inevitably two kinds of slaves: the prisoners of
 "A man has to live with himself, and he should see to it that he always has good company." - Charles Evans Hughes, jurist (11 Apr 1862-1948)
 "It is from hardship rather than ease that we gather wisdom. We need to develop the capacity to draw strength from our hardships." - Aung San Suu Kyi, Nobel Peace Prize laurate
 "So act that your principle of action might safely be made a law for the whole world." - Immanuel Kant, philosopher (21 Apr 1724-1804)
+"Man can be the most affectionate and altruistic of creatures, yet he's potentially more vicious than any other. He is the only one who can be persuaded to hate millions of his own kind whom he has never seen and to kill as many as he can lay his hands on in the name of his tribe or his God." - Benjamin Spock, pediatrician and author (2 May 1903-1998)
+"No two persons ever read the same book." - Edmund Wilson, critic (8 May 1895-1972)
 
 ## Death
 
@@ -374,6 +389,7 @@ Laws are like cobwebs which may catch small flies, but let wasps and hornets bre
 "The souls of emperors and cobblers are cast in the same mold. The same reason that makes us wrangle with a neighbor creates a war between princes." -Michel de Montaigne, essayist (28 Feb 1533-1592)
 "The fetters imposed on liberty at home have ever been forged out of the weapons provided for defence against real, pretended, or imaginary dangers from abroad." - James Madison, 4th US president (16 Mar 1751-1836)
 "Civilizations in decline are consistently characterised by a tendency towards standardization and uniformity." - Arnold Toynbee, historian (14 Apr 1889-1975)
+"It is the people who scream the loudest about America and Freedom who seem to be the most intolerant for a differing point of view." - Rosanne Cash, singer-songwriter and author (b. 24 May 1955)
 
 ## Modesty / Humbleness
 
@@ -382,6 +398,7 @@ Laws are like cobwebs which may catch small flies, but let wasps and hornets bre
 "The mark of the educated man is not in his boast that he has built his mountain of facts and stood on the top of it, but in his admission that there may be other peaks in the same range with men on the top of them, and that, though their views of the landscape may be different from his, they are nonetheless legitimate." - E.J. Pratt, poet (4 Feb 1882-1964)
 "A fool is known by his speech, and a wise man by silence." - Pythagoras
 "Those who know do not talk. Those who talk do not know." - Lao Tzu
+"The softer you sing, the louder you're heard." - Donovan, musician (b. 10 May 1946)
 
 ## Buddhism
 
@@ -399,6 +416,7 @@ Laws are like cobwebs which may catch small flies, but let wasps and hornets bre
 
 "There are only two kinds of programming languages: the ones people complain about and the ones nobody uses." ― Bjarne Stroustrup, creator of the C++ programming language
 "Programs must be written for people to read and only incidentally for machines to execute." - Hal Abelson
+"Simplicity is prerequisite for reliability." - Edsger W. Dijkstra, computer scientist (11 May 1930-2002)
 
 ## Misc
 
