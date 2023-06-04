@@ -2,7 +2,7 @@
 
 ## Anger
 
-"How much more harmful are the consequences of anger, than the circumstances that aroused them in us." — Marcus Aurelius
+"How much more harmful are the consequences of anger, than the circumstances that aroused them in us." - Marcus Aurelius
 "There are two things a person should never be angry at, what they can help, and what they cannot." - Plato
 "Whatever is begun in anger ends in shame." - Benjamin Franklin
 "A gentle answer turns away wrath, but harsh words turns up anger." - Proverbs 15:1
@@ -12,27 +12,27 @@
 "A man is about as big as the things that make him angry." - Sir Winston Churchill
 "Keep this thought handy when you feel a fit of rage coming on -- it isn't manly to be enraged. Rather, gentleness and civility are more human, and therefore manlier. A real man doesn't give way to anger and discontent, and such a person has strength, courage, and endurance - unlike the angry and complaining. The nearer a man comes to a calm mind, the closer he is to strength." - Marcus Aurelius
 "When someone gets mad at you, de-escalate. When you feel yourself getting spun up, detach." - Jocko Willink
-"Run down the list of those who felt intense anger at something: the most famous, the most unfortunate, the most hated, the most whatever: Where is all that now? Smoke, dust, legend... or not even a legend." "Eventually, all of us will pass away and slowly be forgotten. We should enjoy this brief time we have on earth - not be enslaved to emotions that make us miserable and dissatisfied." - Ryan Holiday / Marcus Aurelius
-"Repeatedly Marcus warns himself that anger and grief only serve to make bad situations worse. Being pissed off that someone was rude to you isn't soothing — it's agitating. Being sad that you've lost something doesn't bring it back, it exaggerates your sense of loss. It's like the first rule of holes: When you're in one, stop digging." - Ryan Holiday
+"Run down the list of those who felt intense anger at something: the most famous, the most unfortunate, the most hated, the most whatever: Where is all that now? Smoke, dust, legend... or not even a legend." "Eventually, all of us will pass away and slowly be forgotten. We should enjoy this brief time we have on earth, not be enslaved to emotions that make us miserable and dissatisfied." - Ryan Holiday / Marcus Aurelius
+"Repeatedly Marcus warns himself that anger and grief only serve to make bad situations worse. Being pissed off that someone was rude to you isn't soothing, it's agitating. Being sad that you've lost something doesn't bring it back, it exaggerates your sense of loss. It's like the first rule of holes: When you're in one, stop digging." - Ryan Holiday
 "The half-life of negative emotions is incredibly short. If you stop thinking about what made you upset." - Sam Harris
 "If someone succeeds in provoking you, realize that your mind is complicit in the provocation." - Epictetus
 "Anger is punishment that you lay upon yourself for stupidity of others."
-"I feel fairly certain that my hatred harms me more than the people whom I hate." -Max Frisch, architect, playwright, and novelist (15 May 1911-1991)
+"I feel fairly certain that my hatred harms me more than the people whom I hate." - Max Frisch, architect, playwright, and novelist (15 May 1911-1991)
 "Every time you find yourself irritated or angry with someone, the one to look at is not that person but yourself. The question to ask is not, 'What's wrong with this person?' but 'What does this irritation tell me about myself?'" - Anthony de Mello
 
 ## Love / Goodness
 
-"A loving person lives in a loving world, a hostile person lives in a hostile world. Everyone you meet is your mirror." – Ken Keyes, Jr.
+"A loving person lives in a loving world, a hostile person lives in a hostile world. Everyone you meet is your mirror." - Ken Keyes, Jr.
 "There is always more goodness in the world than there appears to be, because goodness is of its very nature modest and retiring." - Evelyn Beatrice Hall, biographer (28 Sep 1868-1956)
-"Nothing is a greater impediment to being on good terms with others than being ill at ease with yourself." — Honoré de Balzac
+"Nothing is a greater impediment to being on good terms with others than being ill at ease with yourself." - Honoré de Balzac
 "Every part of our personality that we do not love will become hostile to us." - Robert Bly
-"The curious paradox is that when I accept myself just as I am, then I can change." — Carl Rogers
+"The curious paradox is that when I accept myself just as I am, then I can change." - Carl Rogers
 "When people seem like they are mean, they're almost never mean. They're anxious." - Alain de Botton
 "I told him that in every family there are times when there is hurt, anger, alienation, but we cannot run away from our family. We have only one family, so we must make every effort to be reconciled." - Joseph Cardinal Bernardin, former Archbishop of Chicago
 
 ## Peace of mind
 
-"Reality has a way of shaping itself to your preconceived expectations."
+"Reality has a way of shaping itself to your preconceived expectations." - Unknown
 "Your mind will take the shape of what you frequently hold in thought." - Marcus Aurelius
 "Such as are your habitual thoughts, such also will be the character of your mind." - Marcus Aurelius
 "Everything hangs on one's thinking... a man is as unhappy as he has convinced himself he is." - Seneca
@@ -40,7 +40,7 @@
 "Progress is impossible without change, and those who cannot change their minds cannot change anything." - George Bernard Shaw
 "We suffer more in imagination than in reality." - Seneca
 "There is good in everything, if only we look for it." - Laura Ingalls Wilder
-"To a disciple who was forever complaining about others, the Master said, 'If it is peace you want, seek to change yourself, not other people. It is easier to protect your feet with slippers than to carpet the whole of the earth.'" — Anthony de Mello
+"To a disciple who was forever complaining about others, the Master said, 'If it is peace you want, seek to change yourself, not other people. It is easier to protect your feet with slippers than to carpet the whole of the earth.'" - Anthony de Mello
 "Are you committed to being happy, no matter what happens to you?" - Tony Robbins
 "Do not spoil what you have by desiring what you have not; remember that what you now have was once among the things you only hoped for." - Epicurus
 "To enjoy life, you don't need fancy nonsense, but you do need to control your time and realize that most things just aren't as serious as you make them out to be." - Tim Ferriss
@@ -88,7 +88,7 @@ Our fatal mistake is waiting to be motivated before we take action. Action motiv
 "You can get comfortable while starving in North Korea." - Jocko Willink
 "The purpose of a habit is to remove that action from self-negotiation. You no longer expend energy deciding whether to do it. You just do it. Good habits can range from telling the truth, to flossing." - Kevin Kelly
 "The world is changed by your example, not by your opinion." - @paulocoelho
-"In my whole life, I have known no wise people (over a broad subject matter area) who didn't read all the time — none, zero. You'd be amazed at how much Warren reads — and at how much I read. My children laugh at me. They think I'm a book with a couple of legs sticking out." - Charlie Munger
+"In my whole life, I have known no wise people (over a broad subject matter area) who didn't read all the time - none, zero. You'd be amazed at how much Warren reads - and at how much I read. My children laugh at me. They think I'm a book with a couple of legs sticking out." - Charlie Munger
 "Patience is also a form of action." - Auguste Rodin, sculptor (12 Nov 1840-1917)
 "A change is as good as a rest."
 The power of the spoken word is like a bullet leaving a rifle. Once it's said it can never be taken back and can cause great damage.
@@ -163,7 +163,7 @@ The power of the spoken word is like a bullet leaving a rifle. Once it's said it
 "There is a realization from which all potential personal growth emerges. This is the realization that you are responsible for everything you do in your life, no matter the external circumstances."
 "That you will have some hard times and some discouraging times I have no question; but this is merely another way of saying that you will share the common lot." - Theodore Roosevelt in a letter to his son Theodore III
 "Success comes to the lowly and to the poorly talented, but the special characteristic of a great person is to triumph over the disasters and panics of human life." - Seneca, On Providence, 4.1
-"Inaction breeds doubt and fear. Action breeds confidence and courage. If you want to conquer the negative elements in your life, don't sit at home and think about it. Go out and get busy!" — Dale Carnegie
+"Inaction breeds doubt and fear. Action breeds confidence and courage. If you want to conquer the negative elements in your life, don't sit at home and think about it. Go out and get busy!" - Dale Carnegie
 "It is a crime to despair. We must learn to draw from misfortune the means of future strength." - Winston Churchill
 "The soul would have no rainbow had the eyes no tears." - John Vance Cheney, poet (29 Dec 1848-1922)
 "Continuous effort -- not strength or intelligence -- is the key to unlocking our potential." - Winston Churchill
@@ -172,9 +172,9 @@ The power of the spoken word is like a bullet leaving a rifle. Once it's said it
 "You are a great man; but how am I to know it, if fortune gives you no opportunity of showing your virtue? For a man cannot know himself without trial. No one ever learnt what he could do without putting himself to the test." - Seneca
 "The secret of joy is the mastery of pain." - Anais Nin, writer (21 Feb 1903-1977)
 "In the gap between who we wish one day to be and who we are at present, must come pain, anxiety, envy and humiliation." - Alain de Botton
-"'What is the secret of your serenity?' Said the Master, 'Wholehearted cooperation with the inevitable.'" — Anthony de Mello
+"'What is the secret of your serenity?' Said the Master, 'Wholehearted cooperation with the inevitable.'" - Anthony de Mello
 "When I started counting my blessings, my whole life turned around." - Willie Nelson
-"It takes two things to bowl over a tree — a heavy wind outside and decay inside. Much of the moral wreckage is caused by inner cynicism — a disgust with life's futility, an inability to see sense in it. A person in that mood is an easy mark for the next high wind." - Art Sisson
+"It takes two things to bowl over a tree - a heavy wind outside and decay inside. Much of the moral wreckage is caused by inner cynicism - a disgust with life's futility, an inability to see sense in it. A person in that mood is an easy mark for the next high wind." - Art Sisson
 "Your success and happiness lies in you. Resolve to keep happy, and your joy and you shall form an invincible host against difficulties." - Helen Keller
 "Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy." - Thich Nhat Hanh
 "It's never too late - never too late to start over, never too late to be happy." - Jane Fonda
@@ -234,7 +234,7 @@ There is no stronger example than yourself. Remind yourself that your actions, p
 "The best way of training the young is to train yourself at the same time; not to admonish them, but to be seen never doing that of which you would admonish them." - Plato
 The Spartan King Agesilaus was once asked, almost 2500 years ago now, what children should be taught, to which he replied, "What they will also use when they become men."
 "You must raise only cattle and sheep. You don't raise human beings. You have to cultivate a human being." - Sadhguru
-"The way we talk to our children becomes their inner voice." — Peggy O'Mara
+"The way we talk to our children becomes their inner voice." - Peggy O'Mara
 They're not giving you a hard time, they're having a hard time.
 It's hard being a little person. Be gentle and patient.
 Stop focusing on your day and start focusing on THEIR day.
@@ -249,12 +249,10 @@ A man who does not prepare his son for his own death, has failed as a father.
 "Few things can help an individual more than to place responsibility on him, and to let him know that you trust him." - Booker T. Washington, reformer, educator, and author (5 Apr 1856-1915)
 "What a child doesn't receive he can seldom later give." - P.D. James (Phyllis Dorothy James), novelist (3 Aug 1920-2014)
 
-**Boomerang Effect:** Trying to persuade someone to do one thing can make them more likely to do the opposite, because the act of persuasion can feel like someone stealing your freedom and doing the opposite makes you feel like you're taking your freedom back.
-
 ## Life
 
 "Life is not waiting for the storm to pass, it's learning how to dance in the rain." - Vivian Green
-"If a man knows not which port he sails, no wind is favorable." – Seneca
+"If a man knows not which port he sails, no wind is favorable." - Seneca
 "Remember that reputation and integrity are your most valuable assets - and can be lost in a heartbeat." - Charlie Munger
 "The price of anything is the amount of life you exchange for it." - Henry David Thoreau
 "Be tolerant with others and strict with yourself." - Marcus Aurelius
@@ -274,13 +272,13 @@ In a consumer society there are inevitably two kinds of slaves: the prisoners of
 "It is not what life offers, but what we believe that life should offer that prevents us from experiencing happiness. So let go of your expectations and lower the importance of your personal happiness. Thereby you will lower the stress you experience from not being as happy as you think you should be." - Seph Fontane Pennock - [https://positivepsychology.com/parenthood-paradox]
 "We live in a society exquisitely dependent on science and technology, in which hardly anyone knows anything about science and technology." - Carl Sagan
 "Life is what it is, and you either accept it or you don't. Either you let the current sweep you out to sea, or you swim against the current as it sweeps you out to sea." - Aaron Thier
-"There are two tragedies in life — not getting what you want, and getting it." - Oscar Wilde
+"There are two tragedies in life, not getting what you want, and getting it." - Oscar Wilde
 "Nobody made a greater mistake than he who did nothing because he could do only a little." - Edmund Burke, statesman and writer (12 Jan 1729-1797)
 "Whoever does not have two-thirds of his day for himself, is a slave, whatever he may be: a statesman, a businessman, an official, or a scholar." - Friedrich Nietzsche
 "As long as a man stands in his own way, everything seems to be in his way." - Ralph Waldo Emerson
 "When a man is wrapped up in himself he makes a pretty small package." - John Ruskin, author, art critic, and social reformer (8 Feb 1819-1900)
 "The more I read, the more I acquire, the more certain I am that I know nothing." ― Voltaire
-"I never allow myself to have an opinion on anything that I don't know the other side's argument better than they do." — Charlie Munger
+"I never allow myself to have an opinion on anything that I don't know the other side's argument better than they do." - Charlie Munger
 "It isn't a sufficiently strong purpose to make you form the habit of doing the things you don't like to do for the very simple reason that it is easier to adjust ourselves to the hardships of a poor living than it is to adjust ourselves to the hardships of making a better one." - The Common Denominator of Success, by Albert E. N. Gray
 "I am an old man and have known a great many troubles, but most of them never happened." - Mark Twain
 "Whoever wants to be everywhere is nowhere. No wind blows for him who has no harbor." - Michel de Montaigne
@@ -289,7 +287,7 @@ In a consumer society there are inevitably two kinds of slaves: the prisoners of
 "When events change, I change my mind. What do you do?" - Paul Samuelson, Nobel Prize in Economics
 "The most important decision you make is to be in a good mood." - Voltaire
 "Those who compare the age in which their lot has fallen with a golden age which exists only in imagination, may talk of degeneracy and decay; but no man who is correctly informed as to the past, will be disposed to take a morose or desponding view of the present." - Thomas Babington Macaulay, author and statesman (25 Oct 1800-1859)
-"It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things." — Elinor Smith
+"It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things." - Elinor Smith
 "You are not what you think you are, but what you think, you are." - Brian Tracy
 "Complaining is not a strategy. You have to work with the world as you find it, not as you would have it be." - Jeff Bezos
 "There are a few times in life when you leap up and the past that you'd been standing on falls away behind you, and the future you mean to land on is not yet in place, and for a moment you're suspended knowing nothing and no one, not even yourself." - Ann Patchett, writer (b. 2 Dec 1963)
@@ -306,13 +304,13 @@ In a consumer society there are inevitably two kinds of slaves: the prisoners of
 "For sleep, riches, and health to be truly enjoyed, they must be interrupted." - Jean Paul Richter, writer (21 Mar 1763-1825)
 "All I can do when the road bends; Is lean into the curve. And all I can do when the tank's run dry; Is see what's in reserve. And all I can do when the plans break down; Is stay on my feet. And all I can do at thе end of the day is play on; Play on and keep the beat" - Lin-Manuel Miranda (Keep the Beat from Vivo)
 "Wise men learn more from fools than fools from the wise." - Cato
-"Like our stomachs, our minds are hurt more often by overeating than by hunger." — Petrarch
+"Like our stomachs, our minds are hurt more often by overeating than by hunger." - Petrarch
 "There is far more to life than getting things done." - Jon Kabat-Zinn
 "Lots of times you have to pretend to join a parade in which you're not really interested in order to get where you're going." - Christopher Morley, writer (5 May 1890-1957)
 "Do not think of knocking out another person's brains because he differs in opinion from you. It would be as rational to knock yourself on the head because you differ from yourself ten years ago." - Horace Mann, educational reformer (4 May 1796-1859)
 "It is easy in the world to live after the world's opinion, it is easy in solitude to live after your own; but the great man is he who, in the midst of the world, keeps with perfect sweetness the independence of solitude." - Ralph Waldo Emerson, writer and philosopher (25 May 1803-1882)
-"I remember my grandfather telling me how each of us must live with a full measure of loneliness that is inescapable, and we must not destroy ourselves with our passion to escape the aloneness." — Jim Harrison
-"No one can make you feel inferior without your consent." — Eleanor Roosevelt
+"I remember my grandfather telling me how each of us must live with a full measure of loneliness that is inescapable, and we must not destroy ourselves with our passion to escape the aloneness." - Jim Harrison
+"No one can make you feel inferior without your consent." - Eleanor Roosevelt
 "Fearing no insult, asking for no crown, receive with indifference both flattery and slander, and do not argue with a fool." - Aleksandr Pushkin, poet, novelist, and playwright (6 Jun 1799-1837)
 "Everyone confesses that exertion which brings out all the powers of body and mind is the best thing for us; but most people do all they can to get rid of it, and as a general rule nobody does much more than circumstances drive them to do." - Harriet Beecher Stowe, abolitionist and novelist (14 Jun 1811-1896)
 "Forgiveness is accepting the apology you will never receive." - Shawne Duperon
@@ -353,14 +351,14 @@ In a consumer society there are inevitably two kinds of slaves: the prisoners of
 
 "Invest the best hours of your day on the biggest opportunity, not the biggest problem." - Farnam Street
 "The biggest generator of long term results is learning to do things when you don't feel like doing them. If you let excuses or emotion drive behavior, you're cheating yourself. Put aside the excuses and start doing what you need to do." - Farnam Street
-"You're not going to succeed at stuff you don't want to do." – Mark Bittman
+"You're not going to succeed at stuff you don't want to do." - Mark Bittman
 "Success isn't owned, it's rented. And the rent is due every day." - Rory Vaden
 "I don't need time. I need a deadline." - Duke Ellington
 "If you don't produce, you won't thrive - no matter how skilled or talented you are." - Cal Newport
 "If you don't prioritize your life, someone else will." - Greg McKeown
-"Is your day by design or by default?" – J.D. Meier
+"Is your day by design or by default?" - J.D. Meier
 "It is not enough to be industrious; so are the ants. What are you industrious about?" - Henry David Thoreau
-"What the pupil must learn, if he learns anything at all, is that the world will do most of the work for you, provided you cooperate with it by identifying how it really works and aligning with those realities. If we do not let the world teach us, it teaches us a lesson." — Joseph Tussman
+"What the pupil must learn, if he learns anything at all, is that the world will do most of the work for you, provided you cooperate with it by identifying how it really works and aligning with those realities. If we do not let the world teach us, it teaches us a lesson." - Joseph Tussman
 "If you wish to persuade, appeal to interest, rather than reason." - Benjamin Franklin
 Treat everyone like an unfinished product.
 The most powerful productivity tool ever invented is simply the word "no".
@@ -373,7 +371,7 @@ The most powerful productivity tool ever invented is simply the word "no".
 "A tremendous amount of work and preparation goes into becoming an overnight success." - Unknown
 "Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to a focus." - Alexander Graham Bell, inventor (3 Mar 1847-1922)
 "Don’t aim at success—the more you aim at it and make it a target, the more you are going to miss it. For success, like happiness, cannot be pursued; it must ensue, and it only does so as the unintended side-effect of one’s dedication." - Viktor Frankl
-"Recently, I was asked if I was going to fire an employee who made a mistake that cost the company $600,000. No, I replied, I just spent $600,000 training him. Why would I want somebody to hire his experience?" -Thomas J. Watson, Chairman and CEO of IBM (17 Feb 1874-1956)
+"Recently, I was asked if I was going to fire an employee who made a mistake that cost the company $600,000. No, I replied, I just spent $600,000 training him. Why would I want somebody to hire his experience?" - Thomas J. Watson, Chairman and CEO of IBM (17 Feb 1874-1956)
 "A career is wonderful, but you can't curl up with it on a cold night." - Marilyn Monroe, actress (1 Jun 1926-1962)
 
 ## Politics
@@ -381,7 +379,7 @@ The most powerful productivity tool ever invented is simply the word "no".
 "Patriotism is proud of a country's virtues and eager to correct its deficiencies; it also acknowledges the legitimate patriotism of other countries, with their own specific virtues. The pride of nationalism, however, trumpets its country's virtues and denies its deficiencies, while it is contemptuous toward the virtues of other countries. It wants to be, and proclaims itself to be, "the greatest", but greatness is not required of a country; only goodness is." - Sydney J. Harris, journalist and author (14 Sep 1917-1986)
 A strong nation, like a strong person, can afford to be gentle, firm, thoughtful, and restrained. It can afford to extend a helping hand to others. It is a weak nation, like a weak person, that must behave with bluster and boasting and rashness and other signs of insecurity. - Jimmy Carter, 39th US President, Nobel laureate (b. 1 Oct 1924)
 It's said that "power corrupts," but actually it's more true that power attracts the corruptible. The sane are usually attracted by other things than power. When they do act, they think of it as service, which has limits. The tyrant, though, seeks mastery, for which he is insatiable, implacable. - David Brin, scientist and science fiction author (b. 6 Oct 1950)
-There is no such thing as not voting: you either vote by voting, or you vote by staying home and tacitly doubling the value of some diehard's vote. -David Foster Wallace, novelist, essayist, and short story writer (21 Feb 1962-2008)
+There is no such thing as not voting: you either vote by voting, or you vote by staying home and tacitly doubling the value of some diehard's vote. - David Foster Wallace, novelist, essayist, and short story writer (21 Feb 1962-2008)
 Laws are like cobwebs which may catch small flies, but let wasps and hornets break through. - Jonathan Swift, satirist (30 Nov 1667-1745)
 "If only the sun-drenched celebrities are being noticed and worshiped, then our children are going to have a tough time seeing the value in the shadows, where the thinkers, probers, and scientists are keeping society together." - Rita Dove, poet (b. 28 Aug 1952)
 "The smart way to keep people passive and obedient is to strictly limit the spectrum of acceptable opinion, but allow very lively debate within that spectrum -- even encourage the more critical and dissident views. That gives people the sense that there's free thinking going on, while all the time the presuppositions of the system are being reinforced by the limits put on the range of the debate." - Noam Chomsky, linguistics professor and political activist (b. 7 Dec 1928)
@@ -424,3 +422,5 @@ Laws are like cobwebs which may catch small flies, but let wasps and hornets bre
 
 "You have to hold your audience in writing to the very end -- much more than in talking, when people have to be polite and listen to you." - Brenda Ueland, writer (24 Oct 1891-1985)
 "A motorcycle is a bicycle with a pandemonium attachment and is designed for the especial use of mechanical geniuses, daredevils, and lunatics." - George Fitch - (Motorcycles) [https://cdnc.ucr.edu/?a=d&d=SFC19120610.2.78&e=-------en--20--1--txt-txIN--------1]
+
+**Boomerang Effect:** Trying to persuade someone to do one thing can make them more likely to do the opposite, because the act of persuasion can feel like someone stealing your freedom and doing the opposite makes you feel like you're taking your freedom back.
