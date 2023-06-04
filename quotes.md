@@ -340,6 +340,7 @@ In a consumer society there are inevitably two kinds of slaves: the prisoners of
 "So act that your principle of action might safely be made a law for the whole world." - Immanuel Kant, philosopher (21 Apr 1724-1804)
 "Man can be the most affectionate and altruistic of creatures, yet he's potentially more vicious than any other. He is the only one who can be persuaded to hate millions of his own kind whom he has never seen and to kill as many as he can lay his hands on in the name of his tribe or his God." - Benjamin Spock, pediatrician and author (2 May 1903-1998)
 "No two persons ever read the same book." - Edmund Wilson, critic (8 May 1895-1972)
+"There is a price to pay for speaking the truth. There is a bigger price for living a lie." - Cornel West, author and philosopher (b. 2 Jun 1953)
 
 ## Death
 
@@ -373,6 +374,7 @@ The most powerful productivity tool ever invented is simply the word "no".
 "Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to a focus." - Alexander Graham Bell, inventor (3 Mar 1847-1922)
 "Don’t aim at success—the more you aim at it and make it a target, the more you are going to miss it. For success, like happiness, cannot be pursued; it must ensue, and it only does so as the unintended side-effect of one’s dedication." - Viktor Frankl
 "Recently, I was asked if I was going to fire an employee who made a mistake that cost the company $600,000. No, I replied, I just spent $600,000 training him. Why would I want somebody to hire his experience?" -Thomas J. Watson, Chairman and CEO of IBM (17 Feb 1874-1956)
+"A career is wonderful, but you can't curl up with it on a cold night." - Marilyn Monroe, actress (1 Jun 1926-1962)
 
 ## Politics
 
