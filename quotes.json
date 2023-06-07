@@ -2,12 +2,12 @@
   {
     "quote": "How much more harmful are the consequences of anger, than the circumstances that aroused them in us.",
     "author": "Marcus Aurelius",
-    "tags": ["anger"]
+    "tags": ["anger", "stoicism"]
   },
   {
     "quote": "There are two things a person should never be angry at, what they can help, and what they cannot.",
     "author": "Plato",
-    "tags": ["anger"]
+    "tags": ["anger", "stoicism"]
   },
   {
     "quote": "Whatever is begun in anger ends in shame.",
@@ -22,12 +22,12 @@
   {
     "quote": "For every minute you remain angry, you give up sixty seconds of peace of mind.",
     "author": "Ralph Waldo Emerson",
-    "tags": ["anger"]
+    "tags": ["anger", "peace of mind"]
   },
   {
     "quote": "And why should we feel anger at the world? As if the world would notice!",
     "author": "Euripides",
-    "tags": ["anger"]
+    "tags": ["anger", "stoicism"]
   },
   {
     "quote": "Sometimes the only thing you can control is your behavior and attitude.",
@@ -42,7 +42,7 @@
   {
     "quote": "Keep this thought handy when you feel a fit of rage coming on -- it isn't manly to be enraged. Rather, gentleness and civility are more human, and therefore manlier. A real man doesn't give way to anger and discontent, and such a person has strength, courage, and endurance unlike the angry and complaining. The nearer a man comes to a calm mind, the closer he is to strength.",
     "author": "Marcus Aurelius",
-    "tags": ["anger"]
+    "tags": ["anger", "stoicism"]
   },
   {
     "quote": "When someone gets mad at you, de-escalate. When you feel yourself getting spun up, detach.",
@@ -52,22 +52,22 @@
   {
     "quote": "Run down the list of those who felt intense anger at something: the most famous, the most unfortunate, the most hated, the most whatever: Where is all that now? Smoke, dust, legend... or not even a legend. Eventually, all of us will pass away and slowly be forgotten. We should enjoy this brief time we have on earth, not be enslaved to emotions that make us miserable and dissatisfied.",
     "author": "Ryan Holiday / Marcus Aurelius",
-    "tags": ["anger"]
+    "tags": ["anger", "stoicism"]
   },
   {
     "quote": "Repeatedly Marcus warns himself that anger and grief only serve to make bad situations worse. Being pissed off that someone was rude to you isn't soothing, it's agitating. Being sad that you've lost something doesn't bring it back, it exaggerates your sense of loss. It's like the first rule of holes: When you're in one, stop digging.",
     "author": "Ryan Holiday",
-    "tags": ["anger"]
+    "tags": ["anger", "stoicism"]
   },
   {
     "quote": "The half-life of negative emotions is incredibly short. If you stop thinking about what made you upset.",
     "author": "Sam Harris",
-    "tags": ["anger"]
+    "tags": ["anger", "right thinking"]
   },
   {
     "quote": "If someone succeeds in provoking you, realize that your mind is complicit in the provocation.",
     "author": "Epictetus",
-    "tags": ["anger"]
+    "tags": ["anger", "stoicism"]
   },
   {
     "quote": "Anger is punishment that you lay upon yourself for stupidity of others.",
@@ -77,17 +77,17 @@
   {
     "quote": "I feel fairly certain that my hatred harms me more than the people whom I hate.",
     "author": "Max Frisch, architect, playwright, and novelist (15 May 1911-1991)",
-    "tags": ["anger"]
+    "tags": ["anger", "kindness"]
   },
   {
     "quote": "Every time you find yourself irritated or angry with someone, the one to look at is not that person but yourself. The question to ask is not, 'What's wrong with this person?' but 'What does this irritation tell me about myself?'",
     "author": "Anthony de Mello",
-    "tags": ["anger"]
+    "tags": ["anger", "kindness"]
   },
   {
     "quote": "A loving person lives in a loving world, a hostile person lives in a hostile world. Everyone you meet is your mirror.",
     "author": "Ken Keyes, Jr.",
-    "tags": ["love", "goodness"]
+    "tags": ["love", "goodness", "kindness", "right living"]
   },
   {
     "quote": "There is always more goodness in the world than there appears to be, because goodness is of its very nature modest and retiring.",
@@ -97,17 +97,17 @@
   {
     "quote": "Nothing is a greater impediment to being on good terms with others than being ill at ease with yourself.",
     "author": "Honoré de Balzac",
-    "tags": ["love", "goodness"]
+    "tags": ["love", "goodness", "kindness"]
   },
   {
     "quote": "Every part of our personality that we do not love will become hostile to us.",
     "author": "Robert Bly",
-    "tags": ["love", "goodness"]
+    "tags": ["love", "goodness", "kindness"]
   },
   {
     "quote": "The curious paradox is that when I accept myself just as I am, then I can change.",
     "author": "Carl Rogers",
-    "tags": ["love", "goodness"]
+    "tags": ["love", "goodness", "kindness"]
   },
   {
     "quote": "When people seem like they are mean, they're almost never mean. They're anxious.",
@@ -122,22 +122,22 @@
   {
     "quote": "Reality has a way of shaping itself to your preconceived expectations.",
     "author": "Unknown",
-    "tags": ["peace of mind"]
+    "tags": ["peace of mind", "right thinking"]
   },
   {
     "quote": "Your mind will take the shape of what you frequently hold in thought.",
     "author": "Marcus Aurelius",
-    "tags": ["peace of mind"]
+    "tags": ["peace of mind", "stoicism", "right thinking"]
   },
   {
     "quote": "Such as are your habitual thoughts, such also will be the character of your mind.",
     "author": "Marcus Aurelius",
-    "tags": ["peace of mind"]
+    "tags": ["peace of mind", "stoicism", "right thinking"]
   },
   {
     "quote": "Everything hangs on one's thinking. A man is as unhappy as he has convinced himself he is.",
     "author": "Seneca",
-    "tags": ["peace of mind"]
+    "tags": ["peace of mind", "stoicism", "right thinking"]
   },
   {
     "quote": "Nothing is enough for the man to whom enough is too little.",
@@ -147,22 +147,22 @@
   {
     "quote": "Progress is impossible without change, and those who cannot change their minds cannot change anything.",
     "author": "George Bernard Shaw",
-    "tags": ["peace of mind"]
+    "tags": ["peace of mind", "right thinking"]
   },
   {
     "quote": "We suffer more in imagination than in reality.",
     "author": "Seneca",
-    "tags": ["peace of mind"]
+    "tags": ["peace of mind", "stoicism", "right thinking"]
   },
   {
     "quote": "There is good in everything, if only we look for it.",
     "author": "Laura Ingalls Wilder",
-    "tags": ["peace of mind"]
+    "tags": ["peace of mind", "goodness"]
   },
   {
     "quote": "To a disciple who was forever complaining about others, the Master said, 'If it is peace you want, seek to change yourself, not other people. It is easier to protect your feet with slippers than to carpet the whole of the earth.'",
     "author": "Anthony de Mello",
-    "tags": ["peace of mind"]
+    "tags": ["peace of mind", "right thinking"]
   },
   {
     "quote": "Are you committed to being happy, no matter what happens to you?",
@@ -172,7 +172,7 @@
   {
     "quote": "Do not spoil what you have by desiring what you have not; remember that what you now have was once among the things you only hoped for.",
     "author": "Epicurus",
-    "tags": ["peace of mind"]
+    "tags": ["peace of mind", "gratitude"]
   },
   {
     "quote": "To enjoy life, you don't need fancy nonsense, but you do need to control your time and realize that most things just aren't as serious as you make them out to be.",
@@ -192,12 +192,12 @@
   {
     "quote": "We have a right to our labor, not to the fruits of our labor.",
     "author": "Bhagavad Gita",
-    "tags": ["peace of mind"]
+    "tags": ["peace of mind", "gratitude"]
   },
   {
     "quote": "Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it.",
     "author": "Jalaluddin Rumi",
-    "tags": ["peace of mind"]
+    "tags": ["peace of mind", "love", "kindness"]
   },
   {
     "quote": "Care about what other people think and you'll always be their prisoner.",
@@ -227,12 +227,12 @@
   {
     "quote": "The mind is its own place, and in itself / Can make a heaven of hell, a hell of heaven.",
     "author": "John Milton, poet (9 Dec 1608-1674)",
-    "tags": ["peace of mind"]
+    "tags": ["peace of mind", "right thinking"]
   },
   {
     "quote": "Now that your worry has proved such an un-lucrative business, why not find a better job",
     "author": "Hafez",
-    "tags": ["peace of mind"]
+    "tags": ["peace of mind", "right thinking"]
   },
   {
     "quote": "Care enough about your practice to put out your best effort. But don't care so much that if you are unsuccessful at making your desired progress, it will be a problem for you.",
@@ -242,12 +242,12 @@
   {
     "quote": "Desire is a contract you make with yourself to be unhappy until you get what you want. I try not to have more than one big desire in my life at any given time, and I also recognize that as the axis of my suffering.",
     "author": "Naval Ravikant",
-    "tags": ["peace of mind"]
+    "tags": ["peace of mind", "buddhism"]
   },
   {
     "quote": "When you choose what media to consume, you are choosing your future thoughts and perspectives and opinions. And if you choose poorly, you will think poorly.",
     "author": "Marshall McLuhan",
-    "tags": ["peace of mind"]
+    "tags": ["peace of mind", "right thinking"]
   },
   {
     "quote": "Contentment is, after all, simply refined indolence.",
@@ -257,7 +257,7 @@
   {
     "quote": "You cannot control the mind with the mind",
     "author": "Unknown",
-    "tags": ["peace of mind"]
+    "tags": ["peace of mind", "right thinking"]
   },
   {
     "quote": "The happiest is the person who suffers the least pain; the most miserable who enjoys the least pleasure.",
@@ -272,127 +272,127 @@
   {
     "quote": "It's hard to have a good day with a bad attitude, and it's hard to have a bad day with a good attitude.",
     "author": "Dr. Paul O",
-    "tags": ["living right"]
+    "tags": ["right living", "right thinking"]
   },
   {
     "quote": "It is remarkable how much long-term advantage people like us have gotten by trying to be consistently not stupid, instead of trying to be very intelligent.",
     "author": "Charlie Munger",
-    "tags": ["living right"]
+    "tags": ["right living"]
   },
   {
     "quote": "Live as if you were living already for the second time and as if you had acted the first time as wrongly as you are about to act now.",
     "author": "Viktor Frankl",
-    "tags": ["living right"]
+    "tags": ["right living"]
   },
   {
     "quote": "Character is fate.",
     "author": "Heraclitus",
-    "tags": ["living right"]
+    "tags": ["right living"]
   },
   {
     "quote": "Easy choices, hard life. Hard choices, easy life.",
     "author": "Jerzy Gregorek",
-    "tags": ["living right"]
+    "tags": ["right living", "discipline"]
   },
   {
     "quote": "Let us conduct ourselves so that all men wish to be our friends and all fear to be our enemies.",
     "author": "Alexander the Great",
-    "tags": ["living right"]
+    "tags": ["right living"]
   },
   {
     "quote": "It's not who you think you are or who you want to be. You are what you do consistently.",
     "author": "Unknown",
-    "tags": ["living right"]
+    "tags": ["right living", "discipline"]
   },
   {
     "quote": "We are what we repeatedly do, therefore, excellence is not an act but a habit.",
     "author": "Aristotle",
-    "tags": ["living right"]
+    "tags": ["right living", "discipline"]
   },
   {
     "quote": "It is easier to act yourself into a new way of thinking, than it is to think yourself into a new way of acting.",
     "author": "Millard Fuller",
-    "tags": ["living right"]
+    "tags": ["right living", "discipline"]
   },
   {
     "quote": "In the beginner's mind there are many possibilities; In the expert's, there are few.",
     "author": "Zen Master Shunryu Suzuki",
-    "tags": ["living right", "buddhism"]
+    "tags": ["right living", "buddhism"]
   },
   {
     "quote": "Our fatal mistake is waiting to be motivated before we take action. Action motivates.",
     "author": "Unknown",
-    "tags": []
+    "tags": ["discipline"]
   },
   {
     "quote": "Live in a way that makes time your friend, not your enemy.",
     "author": "Unknown",
-    "tags": ["living right"]
+    "tags": ["right living"]
   },
   {
     "quote": "I want to walk through life instead of being dragged through it.",
     "author": "Alanis Morissette",
-    "tags": ["living right"]
+    "tags": ["right living"]
   },
   {
     "quote": "You cannot step in the same river twice.",
     "author": "Heraclitus",
-    "tags": ["living right"]
+    "tags": ["right living"]
   },
   {
     "quote": "Our capacity to make peace with another person and with the world depends very much on our capacity to make peace with ourselves.",
     "author": "Thich Nhat Hanh",
-    "tags": ["living right"]
+    "tags": ["right living", "love", "kindness"]
   },
   {
     "quote": "Don't believe everything you think.",
     "author": "BJ Miller",
-    "tags": ["living right"]
+    "tags": ["right living", "right thinking"]
   },
   {
     "quote": "If you don't set a baseline standard for what you'll accept in life, you'll find it's easy to slip into behaviors and attitudes or a quality of life that's far below what you deserve.",
     "author": "Forged",
-    "tags": ["living right"]
+    "tags": ["right living", "discipline"]
   },
   {
     "quote": "To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking.",
     "author": "Johann Wolfgang von Goethe",
-    "tags": ["living right"]
+    "tags": ["right living", "right thinking", "discipline"]
   },
   {
     "quote": "This is not your responsibility but it is your problem.",
     "author": "Cheryl Strayed",
-    "tags": ["living right"]
+    "tags": ["right living"]
   },
   {
     "quote": "Better to trip with the feet than with the tongue.",
     "author": "Zeno",
-    "tags": ["living right"]
+    "tags": ["right living", "right speech"]
   },
   {
     "quote": "You can get comfortable while starving in North Korea.",
     "author": "Jocko Willink",
-    "tags": ["living right"]
+    "tags": ["right living", "discipline"]
   },
   {
     "quote": "The purpose of a habit is to remove that action from self-negotiation. You no longer expend energy deciding whether to do it. You just do it. Good habits can range from telling the truth, to flossing.",
     "author": "Kevin Kelly",
-    "tags": ["living right"]
+    "tags": ["right living"]
   },
   {
     "quote": "The world is changed by your example, not by your opinion.",
     "author": "@paulocoelho",
-    "tags": ["living right"]
+    "tags": ["right living"]
   },
   {
     "quote": "In my whole life, I have known no wise people (over a broad subject matter area) who didn't read all the time, none, zero. You'd be amazed at how much Warren reads, and at how much I read. My children laugh at me. They think I'm a book with a couple of legs sticking out.",
     "author": "Charlie Munger",
-    "tags": ["living right"]
+    "tags": ["right living"]
   },
   {
     "quote": "Patience is also a form of action.",
     "author": "Auguste Rodin, sculptor (12 Nov 1840-1917)",
-    "tags": ["living right"]
+    "tags": ["right living"]
   },
   {
     "quote": "A change is as good as a rest.",
@@ -402,132 +402,132 @@
   {
     "quote": "The power of the spoken word is like a bullet leaving a rifle. Once it's said it can never be taken back and can cause great damage.",
     "author": "Former Navy SEAL",
-    "tags": []
+    "tags": ["right speech"]
   },
   {
     "quote": "I never think of the future. It comes soon enough.",
     "author": "Albert Einstein",
-    "tags": ["living right"]
+    "tags": ["right living", "mindfulness"]
   },
   {
     "quote": "We often contradict an opinion for no other reason than that we do not like the tone in which it is expressed.",
     "author": "Friedrich Nietzsche",
-    "tags": ["living right"]
+    "tags": ["right living", "right speech"]
   },
   {
     "quote": "You miss 100% of the shots you don't take.",
     "author": "Wayne Gretzky",
-    "tags": ["living right"]
+    "tags": ["right living"]
   },
   {
     "quote": "Better keep yourself clean and bright; you are the window through which you must see the world.",
     "author": "George Bernard Shaw, writer, Nobel laureate (26 Jul 1856-1950)",
-    "tags": ["living right"]
+    "tags": ["right living"]
   },
   {
     "quote": "If there existed no external means for dimming their consciences, one-half of the men would at once shoot themselves, because to live contrary to one's reason is a most intolerable state, and all men of our time are in such a state.",
     "author": "Leo Tolstoy, novelist and philosopher (9 Sep 1828-1910)",
-    "tags": ["living right"]
+    "tags": ["right living"]
   },
   {
     "quote": "Soon silence will have passed into legend. Man has turned his back on silence. Day after day he invents machines and devices that increase noise and distract humanity from the essence of life, contemplation, meditation. Tooting, howling, screeching, booming, crashing, whistling, grinding, and trilling bolster his ego.",
     "author": "Jean Arp, artist and poet (16 Sep 1887-1948)",
-    "tags": ["living right"]
+    "tags": ["right living", "mindfulness"]
   },
   {
     "quote": "Few things are as important to your quality of life as your choices about how to spend the precious resource of your free time.",
     "author": "Winifred Gallagher",
-    "tags": ["living right"]
+    "tags": ["right living", "discipline"]
   },
   {
     "quote": "A mature person is one who does not think only in absolutes, who is able to be objective even when deeply stirred emotionally, who has learned that there is both good and bad in all people and in all things, and who walks humbly and deals charitably with the circumstances of life, knowing that in this world no one is all knowing and therefore all of us need both love and charity.",
     "author": "Eleanor Roosevelt, diplomat and writer (11 Oct 1884-1962)",
-    "tags": ["living right"]
+    "tags": ["right living"]
   },
   {
     "quote": "The human mind is inspired enough when it comes to inventing horrors; it is when it tries to invent a heaven that it shows itself cloddish.",
     "author": "Evelyn Waugh, novelist (28 Oct 1903-1966)",
-    "tags": ["living right"]
+    "tags": ["right living"]
   },
   {
     "quote": "A lack of patience changes the outcome.",
     "author": "Farnam Street",
-    "tags": ["living right"]
+    "tags": ["right living", "patience"]
   },
   {
     "quote": "Happiness is a choice and a skill.",
     "author": "Naval Ravikant",
-    "tags": ["living right"]
+    "tags": ["right living", "right thinking"]
   },
   {
     "quote": "The lust for comfort murders the passions of the soul.",
     "author": "Kahlil Gibran, mystic, poet, and artist (6 Jan 1883-1931)",
-    "tags": ["living right"]
+    "tags": ["right living"]
   },
   {
     "quote": "No one is useless in this world who lightens the burden of it for anyone else.",
     "author": "Charles Dickens, novelist (7 Feb 1812-1870)",
-    "tags": ["living right"]
+    "tags": ["right living"]
   },
   {
     "quote": "Freedom isn't secured by filling up on your heart's desire but by removing your desire.",
     "author": "Epictetus",
-    "tags": ["living right"]
+    "tags": ["right living", "stoicism", "gratitude"]
   },
   {
     "quote": "The only man I know who behaves sensibly is my tailor; he takes my measurements anew each time he sees me. The rest go on with their old measurements and expect me to fit them.",
     "author": "George Bernard Shaw",
-    "tags": ["living right"]
+    "tags": ["right living"]
   },
   {
     "quote": "The past is to be respected and acknowledged, but not to be worshipped. It is our future in which we will find our greatness.",
     "author": "Pierre Trudeau, 15th Prime Minister of Canada (18 Oct 1919-2000)",
-    "tags": ["living right"]
+    "tags": ["right living"]
   },
   {
     "quote": "His mother had often said, When you choose an action, you choose the consequences of that action. She had emphasized the corollary of this axiom even more vehemently: when you desired a consequence you had damned well better take the action that would create it.",
     "author": "Lois McMaster Bujold, writer (b. 2 Nov 1949)",
-    "tags": ["living right"]
+    "tags": ["right living"]
   },
   {
     "quote": "Do not confuse effort with results. Just because you put in the effort does not mean you'll get the desired result. Results are accumulated in drops but lost in buckets. Make sure you're not undoing the things you're trying to accomplish.",
     "author": "Shane Parrish",
-    "tags": ["living right"]
+    "tags": ["right living"]
   },
   {
     "quote": "Too often we underestimate the power of a touch, a smile, a kind word, a listening ear, an honest compliment, or the smallest act of caring, all of which have the potential to turn a life around.",
     "author": "Leo Buscaglia, author, speaker and professor (31 Mar 1924-1998)",
-    "tags": ["living right"]
+    "tags": ["right living"]
   },
   {
     "quote": "Nature never said to me: Do not be poor. Still less did she say: Be rich. Her cry to me was always: Be independent.",
     "author": "Nicolas de Chamfort, writer (6 Apr 1741-1794)",
-    "tags": ["living right"]
+    "tags": ["right living"]
   },
   {
     "quote": "Who are we but the stories we tell ourselves, about ourselves, and believe?",
     "author": "Scott Turow, author and lawyer (b. 12 Apr 1949)",
-    "tags": ["living right"]
+    "tags": ["right living", "right thinking"]
   },
   {
     "quote": "If any man seeks for greatness, let him forget greatness and ask for truth, and he will find both.",
     "author": "Horace Mann, educational reformer (4 May 1796-1859)",
-    "tags": ["living right"]
+    "tags": ["right living"]
   },
   {
     "quote": "How can we expect righteousness to prevail when there is hardly anyone willing to give himself up individually to a righteous cause... It is such a splendid sunny day, and I have to go. But how many have to die on the battlefield in these days, how many young, promising lives. What does my death matter if by our acts thousands are warned and alerted.",
     "author": "Sophie Scholl, student and anti-Nazi activist (9 May 1921-1943) [Her last words before being executed by guillotine.]",
-    "tags": ["living right"]
+    "tags": ["right living"]
   },
   {
     "quote": "Those who are happiest are those who do the most for others.",
     "author": "Booker T. Washington",
-    "tags": ["living right"]
+    "tags": ["right living"]
   },
   {
     "quote": "Nothing is worth more than this day.",
     "author": "Johann Wolfgang von Goethe",
-    "tags": ["living right"]
+    "tags": ["right living", "mindfulness"]
   },
   {
     "quote": "Mimicking the herd invites regression to the mean.",
@@ -612,12 +612,12 @@
   {
     "quote": "It's not what happens to you, but how you react to it that matters.",
     "author": "Epictetus",
-    "tags": ["obstacles", "adversity", "resilience"]
+    "tags": ["obstacles", "adversity", "resilience", "stoicism"]
   },
   {
     "quote": "How does it help, to make troubles heavier by bemoaning them?",
     "author": "Seneca",
-    "tags": ["obstacles", "adversity", "resilience"]
+    "tags": ["obstacles", "adversity", "resilience", "stoicism"]
   },
   {
     "quote": "If only you can go through difficult times with inner grace, you will see that every situation we face is an opportunity to enhance our lives.",
@@ -647,7 +647,7 @@
   {
     "quote": "You're in control of how you respond to the ups and downs of life. You're in control of how you talk to yourself.",
     "author": "Unknown",
-    "tags": []
+    "tags": ["right thinking"]
   },
   {
     "quote": "How do you choose to suffer?",
@@ -667,12 +667,12 @@
   {
     "quote": "Stick with the situation at hand. Why is this so unbearable? Why can't I endure it? You'll be embarrassed to answer.",
     "author": "Marcus Aurelius",
-    "tags": ["obstacles", "adversity", "resilience"]
+    "tags": ["obstacles", "adversity", "resilience", "stoicism"]
   },
   {
     "quote": "The pity party was not well attended.",
     "author": "Unknown",
-    "tags": []
+    "tags": ["obstacles", "adversity", "resilience"]
   },
   {
     "quote": "Happy events make life delightful but they do not lead to self-discovery and growth and freedom. That privilege is reserved to the things and persons and situations that cause us pain.",
@@ -682,7 +682,7 @@
   {
     "quote": "Demand not that events should happen as you wish; but wish them to happen as they do happen, and your life will be serene.",
     "author": "Epictetus",
-    "tags": ["obstacles", "adversity", "resilience"]
+    "tags": ["obstacles", "adversity", "resilience", "stoicism"]
   },
   {
     "quote": "The best things are the most difficult.",
@@ -697,7 +697,7 @@
   {
     "quote": "Life is like being at the dentist. You always think that the worst is still to come, and yet it is over already.",
     "author": "Otto von Bismarck",
-    "tags": ["obstacles", "adversity", "resilience"]
+    "tags": ["obstacles", "adversity", "resilience", "mindfulness"]
   },
   {
     "quote": "With despair, true optimism begins: the optimism of the man who expects nothing, who knows he has no rights and nothing coming to him, who rejoices in counting on himself alone and in acting alone for the good of all.",
@@ -732,7 +732,7 @@
   {
     "quote": "Success comes to the lowly and to the poorly talented, but the special characteristic of a great person is to triumph over the disasters and panics of human life.",
     "author": "Seneca, On Providence, 4.1",
-    "tags": ["obstacles", "adversity", "resilience"]
+    "tags": ["obstacles", "adversity", "resilience", "stoicism"]
   },
   {
     "quote": "Inaction breeds doubt and fear. Action breeds confidence and courage. If you want to conquer the negative elements in your life, don't sit at home and think about it. Go out and get busy!",
@@ -767,7 +767,7 @@
   {
     "quote": "You are a great man; but how am I to know it, if fortune gives you no opportunity of showing your virtue? For a man cannot know himself without trial. No one ever learnt what he could do without putting himself to the test.",
     "author": "Seneca",
-    "tags": ["obstacles", "adversity", "resilience"]
+    "tags": ["obstacles", "adversity", "resilience", "stoicism"]
   },
   {
     "quote": "The secret of joy is the mastery of pain.",
@@ -1112,7 +1112,7 @@
   {
     "quote": "If a man knows not which port he sails, no wind is favorable.",
     "author": "Seneca",
-    "tags": ["life"]
+    "tags": ["life", "stoicism"]
   },
   {
     "quote": "Remember that reputation and integrity are your most valuable assets, and can be lost in a heartbeat.",
@@ -1127,7 +1127,7 @@
   {
     "quote": "Be tolerant with others and strict with yourself.",
     "author": "Marcus Aurelius",
-    "tags": ["life"]
+    "tags": ["life", "stoicism"]
   },
   {
     "quote": "By failing to prepare, you are preparing to fail.",
@@ -1542,22 +1542,22 @@
   {
     "quote": "I cannot escape death; but cannot I escape the dread of it? Must I die trembling and lamenting?",
     "author": "Epictetus",
-    "tags": ["death"]
+    "tags": ["death", "stoicism"]
   },
   {
     "quote": "You could leave life right now. Let that determine what you do and say and think.",
     "author": "Marcus Aurelius",
-    "tags": ["death"]
+    "tags": ["death", "stoicism"]
   },
   {
     "quote": "Stop whatever you're doing for a moment and ask yourself: Am I afraid of death because I won't be able to do this anymore?",
     "author": "Marcus Aurelius",
-    "tags": ["death"]
+    "tags": ["death", "stoicism"]
   },
   {
     "quote": "What man can you show me who places any value on his time, who reckons the worth of each day, who understands that he is dying daily? For we are mistaken when we look forward to death; the major portion of death has already passed. Whatever years lie behind us are in death's hands.",
     "author": "Seneca",
-    "tags": ["death"]
+    "tags": ["death", "stoicism"]
   },
   {
     "quote": "Invest the best hours of your day on the biggest opportunity, not the biggest problem.",
@@ -1782,12 +1782,12 @@
   {
     "quote": "Moment after moment, everyone comes out from nothingness. This is the true joy of life.",
     "author": "Shunryu Suzuki",
-    "tags": ["buddhism"]
+    "tags": ["buddhism", "mindfulness"]
   },
   {
     "quote": "If you understand, things are just as they are. If you do not understand, things are just as they are.",
     "author": "Zen Proverb",
-    "tags": ["buddhism"]
+    "tags": ["zen", "buddhism", "mindfulness"]
   },
   {
     "quote": "Too many people spend money they haven't earned, to buy things they don't want, to impress people they don't like.",
@@ -1797,7 +1797,7 @@
   {
     "quote": "Possessions are generally diminished by possession.",
     "author": "Friedrich Nietzsche",
-    "tags": ["minimalism"]
+    "tags": ["minimalism", "gratitude"]
   },
   {
     "quote": "We are brainwashed by our economic system until we end up in a tomb beneath a pyramid of time payments, mortgages, preposterous gadgetry, playthings that divert our attention from the sheer idiocy of the charade. The years thunder by. The dreams of youth grow dim where they lie caked in dust on the shelves of patience. Before we know it, the tomb is sealed.",
@@ -1807,7 +1807,7 @@
   {
     "quote": "Before we set our hearts too much on anything, let us examine how happy are those who already possess it.",
     "author": "Francois, duc de La Rochefoucauld, moralist (15 Sep 1613-1680)",
-    "tags": ["minimalism"]
+    "tags": ["minimalism", "gratitude"]
   },
   {
     "quote": "There are only two kinds of programming languages: the ones people complain about and the ones nobody uses.",
@@ -1828,6 +1828,11 @@
     "quote": "You have to hold your audience in writing to the very end -- much more than in talking, when people have to be polite and listen to you.",
     "author": "Brenda Ueland, writer (24 Oct 1891-1985)",
     "tags": ["writing"]
+  },
+  {
+    "quote": "Anything you can't control is teaching you how to let go.",
+    "author": "Jackson Kiddard",
+    "tags": ["adversity", "life", "obstacles", "resilience"]
   },
   {
     "quote": "A motorcycle is a bicycle with a pandemonium attachment and is designed for the especial use of mechanical geniuses, daredevils, and lunatics.",
