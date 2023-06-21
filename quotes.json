@@ -7,7 +7,7 @@
   {
     "quote": "There are two things a person should never be angry at, what they can help, and what they cannot.",
     "author": "Plato",
-    "tags": ["anger", "stoicism"]
+    "tags": ["anger", "stoicism", "equanimity", "acceptance"]
   },
   {
     "quote": "Whatever is begun in anger ends in shame.",
@@ -22,17 +22,17 @@
   {
     "quote": "For every minute you remain angry, you give up sixty seconds of peace of mind.",
     "author": "Ralph Waldo Emerson",
-    "tags": ["anger", "peace of mind"]
+    "tags": ["anger", "peace of mind", "equanimity"]
   },
   {
     "quote": "And why should we feel anger at the world? As if the world would notice!",
     "author": "Euripides",
-    "tags": ["anger", "stoicism"]
+    "tags": ["anger", "stoicism", "equanimity", "acceptance"]
   },
   {
     "quote": "Sometimes the only thing you can control is your behavior and attitude.",
     "author": "13 Things Mentally Strong People Don't Do",
-    "tags": ["anger"]
+    "tags": ["anger", "equanimity", "acceptance"]
   },
   {
     "quote": "A man is about as big as the things that make him angry.",
@@ -42,17 +42,17 @@
   {
     "quote": "Keep this thought handy when you feel a fit of rage coming on -- it isn't manly to be enraged. Rather, gentleness and civility are more human, and therefore manlier. A real man doesn't give way to anger and discontent, and such a person has strength, courage, and endurance unlike the angry and complaining. The nearer a man comes to a calm mind, the closer he is to strength.",
     "author": "Marcus Aurelius",
-    "tags": ["anger", "stoicism"]
+    "tags": ["anger", "stoicism", "equanimity"]
   },
   {
     "quote": "When someone gets mad at you, de-escalate. When you feel yourself getting spun up, detach.",
     "author": "Jocko Willink",
-    "tags": ["anger"]
+    "tags": ["anger", "equanimity"]
   },
   {
     "quote": "Run down the list of those who felt intense anger at something: the most famous, the most unfortunate, the most hated, the most whatever: Where is all that now? Smoke, dust, legend... or not even a legend. Eventually, all of us will pass away and slowly be forgotten. We should enjoy this brief time we have on earth, not be enslaved to emotions that make us miserable and dissatisfied.",
     "author": "Ryan Holiday / Marcus Aurelius",
-    "tags": ["anger", "stoicism"]
+    "tags": ["anger", "stoicism", "equanimity"]
   },
   {
     "quote": "Repeatedly Marcus warns himself that anger and grief only serve to make bad situations worse. Being pissed off that someone was rude to you isn't soothing, it's agitating. Being sad that you've lost something doesn't bring it back, it exaggerates your sense of loss. It's like the first rule of holes: When you're in one, stop digging.",
@@ -62,7 +62,7 @@
   {
     "quote": "The half-life of negative emotions is incredibly short. If you stop thinking about what made you upset.",
     "author": "Sam Harris",
-    "tags": ["anger", "right thinking"]
+    "tags": ["anger", "right thinking", "equanimity", "acceptance"]
   },
   {
     "quote": "If someone succeeds in provoking you, realize that your mind is complicit in the provocation.",
@@ -87,7 +87,7 @@
   {
     "quote": "A loving person lives in a loving world, a hostile person lives in a hostile world. Everyone you meet is your mirror.",
     "author": "Ken Keyes, Jr.",
-    "tags": ["love", "goodness", "kindness", "right living"]
+    "tags": ["love", "goodness", "kindness", "right living", "equanimity"]
   },
   {
     "quote": "There is always more goodness in the world than there appears to be, because goodness is of its very nature modest and retiring.",
@@ -97,27 +97,27 @@
   {
     "quote": "Nothing is a greater impediment to being on good terms with others than being ill at ease with yourself.",
     "author": "Honoré de Balzac",
-    "tags": ["love", "goodness", "kindness"]
+    "tags": ["love", "goodness", "kindness", "equanimity", "acceptance"]
   },
   {
     "quote": "Every part of our personality that we do not love will become hostile to us.",
     "author": "Robert Bly",
-    "tags": ["love", "goodness", "kindness"]
+    "tags": ["love", "goodness", "kindness", "compassion", "acceptance"]
   },
   {
     "quote": "The curious paradox is that when I accept myself just as I am, then I can change.",
     "author": "Carl Rogers",
-    "tags": ["love", "goodness", "kindness"]
+    "tags": ["love", "goodness", "kindness", "acceptance"]
   },
   {
     "quote": "When people seem like they are mean, they're almost never mean. They're anxious.",
     "author": "Alain de Botton",
-    "tags": ["love", "goodness"]
+    "tags": ["love", "goodness", "compassion"]
   },
   {
     "quote": "I told him that in every family there are times when there is hurt, anger, alienation, but we cannot run away from our family. We have only one family, so we must make every effort to be reconciled.",
     "author": "Joseph Cardinal Bernardin, former Archbishop of Chicago",
-    "tags": ["love", "goodness"]
+    "tags": ["love", "goodness", "compassion", "acceptance"]
   },
   {
     "quote": "Reality has a way of shaping itself to your preconceived expectations.",
@@ -142,7 +142,7 @@
   {
     "quote": "Nothing is enough for the man to whom enough is too little.",
     "author": "Epicurus",
-    "tags": ["peace of mind"]
+    "tags": ["peace of mind", "gratitude"]
   },
   {
     "quote": "Progress is impossible without change, and those who cannot change their minds cannot change anything.",
@@ -162,12 +162,12 @@
   {
     "quote": "To a disciple who was forever complaining about others, the Master said, 'If it is peace you want, seek to change yourself, not other people. It is easier to protect your feet with slippers than to carpet the whole of the earth.'",
     "author": "Anthony de Mello",
-    "tags": ["peace of mind", "right thinking"]
+    "tags": ["peace of mind", "right thinking", "equanimity", "acceptance"]
   },
   {
     "quote": "Are you committed to being happy, no matter what happens to you?",
     "author": "Tony Robbins",
-    "tags": ["peace of mind"]
+    "tags": ["peace of mind", "acceptance"]
   },
   {
     "quote": "Do not spoil what you have by desiring what you have not; remember that what you now have was once among the things you only hoped for.",
@@ -177,22 +177,22 @@
   {
     "quote": "To enjoy life, you don't need fancy nonsense, but you do need to control your time and realize that most things just aren't as serious as you make them out to be.",
     "author": "Tim Ferriss",
-    "tags": ["peace of mind"]
+    "tags": ["life", "acceptance", "minimalism"]
   },
   {
     "quote": "What you resist persists.",
     "author": "Carl Jung",
-    "tags": ["peace of mind"]
+    "tags": ["peace of mind", "acceptance"]
   },
   {
     "quote": "Three grand essentials to happiness in this life are something to do, something to love, and something to hope for.",
     "author": "Joseph Addison",
-    "tags": ["peace of mind"]
+    "tags": ["peace of mind", "love"]
   },
   {
     "quote": "We have a right to our labor, not to the fruits of our labor.",
     "author": "Bhagavad Gita",
-    "tags": ["peace of mind", "gratitude"]
+    "tags": ["peace of mind", "gratitude", "discipline"]
   },
   {
     "quote": "Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it.",
@@ -202,27 +202,27 @@
   {
     "quote": "Care about what other people think and you'll always be their prisoner.",
     "author": "Lao Tzu",
-    "tags": ["peace of mind"]
+    "tags": ["peace of mind", "equanimity"]
   },
   {
     "quote": "You'll stop worrying what others think about you when you realize how seldom they do.",
     "author": "David Foster Wallace",
-    "tags": ["peace of mind"]
+    "tags": ["peace of mind", "equanimity"]
   },
   {
     "quote": "Things don't happen to you. They just happen.",
     "author": "Unknown",
-    "tags": ["peace of mind"]
+    "tags": ["peace of mind", "equanimity", "acceptance"]
   },
   {
     "quote": "Calm your mind. Train your body. Master your craft. Be present in the moment.",
     "author": "Unknown",
-    "tags": ["peace of mind"]
+    "tags": ["peace of mind", "discipline", "mindfulness"]
   },
   {
     "quote": "You don't have to be responsible for the world you're in.",
     "author": "John von Neumann",
-    "tags": ["peace of mind"]
+    "tags": ["peace of mind", "life", "equanimity"]
   },
   {
     "quote": "The mind is its own place, and in itself / Can make a heaven of hell, a hell of heaven.",
@@ -237,7 +237,7 @@
   {
     "quote": "Care enough about your practice to put out your best effort. But don't care so much that if you are unsuccessful at making your desired progress, it will be a problem for you.",
     "author": "Lee Parks",
-    "tags": ["peace of mind"]
+    "tags": ["peace of mind", "discipline", "learning"]
   },
   {
     "quote": "Desire is a contract you make with yourself to be unhappy until you get what you want. I try not to have more than one big desire in my life at any given time, and I also recognize that as the axis of my suffering.",
@@ -277,7 +277,7 @@
   {
     "quote": "It is remarkable how much long-term advantage people like us have gotten by trying to be consistently not stupid, instead of trying to be very intelligent.",
     "author": "Charlie Munger",
-    "tags": ["right living"]
+    "tags": ["right thinking"]
   },
   {
     "quote": "Live as if you were living already for the second time and as if you had acted the first time as wrongly as you are about to act now.",
@@ -317,37 +317,37 @@
   {
     "quote": "In the beginner's mind there are many possibilities; In the expert's, there are few.",
     "author": "Zen Master Shunryu Suzuki",
-    "tags": ["right living", "buddhism"]
+    "tags": ["right living", "buddhism", "zen"]
   },
   {
     "quote": "Our fatal mistake is waiting to be motivated before we take action. Action motivates.",
     "author": "Unknown",
-    "tags": ["discipline"]
+    "tags": ["right living", "discipline"]
   },
   {
     "quote": "Live in a way that makes time your friend, not your enemy.",
     "author": "Unknown",
-    "tags": ["right living"]
+    "tags": ["life", "right living"]
   },
   {
     "quote": "I want to walk through life instead of being dragged through it.",
     "author": "Alanis Morissette",
-    "tags": ["right living"]
+    "tags": ["life"]
   },
   {
     "quote": "You cannot step in the same river twice.",
     "author": "Heraclitus",
-    "tags": ["right living"]
+    "tags": ["life"]
   },
   {
     "quote": "Our capacity to make peace with another person and with the world depends very much on our capacity to make peace with ourselves.",
     "author": "Thich Nhat Hanh",
-    "tags": ["right living", "love", "kindness"]
+    "tags": ["right living", "love", "kindness", "acceptance", "equanimity"]
   },
   {
     "quote": "Don't believe everything you think.",
     "author": "BJ Miller",
-    "tags": ["right living", "right thinking"]
+    "tags": ["right thinking"]
   },
   {
     "quote": "If you don't set a baseline standard for what you'll accept in life, you'll find it's easy to slip into behaviors and attitudes or a quality of life that's far below what you deserve.",
@@ -362,12 +362,12 @@
   {
     "quote": "This is not your responsibility but it is your problem.",
     "author": "Cheryl Strayed",
-    "tags": ["right living"]
+    "tags": ["life", "acceptance"]
   },
   {
     "quote": "Better to trip with the feet than with the tongue.",
     "author": "Zeno",
-    "tags": ["right living", "right speech"]
+    "tags": ["life", "right speech"]
   },
   {
     "quote": "You can get comfortable while starving in North Korea.",
@@ -377,7 +377,7 @@
   {
     "quote": "The purpose of a habit is to remove that action from self-negotiation. You no longer expend energy deciding whether to do it. You just do it. Good habits can range from telling the truth, to flossing.",
     "author": "Kevin Kelly",
-    "tags": ["right living"]
+    "tags": ["life", "right living"]
   },
   {
     "quote": "The world is changed by your example, not by your opinion.",
@@ -387,12 +387,12 @@
   {
     "quote": "In my whole life, I have known no wise people (over a broad subject matter area) who didn't read all the time, none, zero. You'd be amazed at how much Warren reads, and at how much I read. My children laugh at me. They think I'm a book with a couple of legs sticking out.",
     "author": "Charlie Munger",
-    "tags": ["right living"]
+    "tags": ["right living", "learning"]
   },
   {
     "quote": "Patience is also a form of action.",
     "author": "Auguste Rodin, sculptor (12 Nov 1840-1917)",
-    "tags": ["right living"]
+    "tags": ["right living", "patience"]
   },
   {
     "quote": "A change is as good as a rest.",
@@ -412,12 +412,12 @@
   {
     "quote": "We often contradict an opinion for no other reason than that we do not like the tone in which it is expressed.",
     "author": "Friedrich Nietzsche",
-    "tags": ["right living", "right speech"]
+    "tags": ["right speech"]
   },
   {
     "quote": "You miss 100% of the shots you don't take.",
     "author": "Wayne Gretzky",
-    "tags": ["right living"]
+    "tags": ["life"]
   },
   {
     "quote": "Better keep yourself clean and bright; you are the window through which you must see the world.",
@@ -437,17 +437,17 @@
   {
     "quote": "Few things are as important to your quality of life as your choices about how to spend the precious resource of your free time.",
     "author": "Winifred Gallagher",
-    "tags": ["right living", "discipline"]
+    "tags": ["life", "right living", "discipline"]
   },
   {
     "quote": "A mature person is one who does not think only in absolutes, who is able to be objective even when deeply stirred emotionally, who has learned that there is both good and bad in all people and in all things, and who walks humbly and deals charitably with the circumstances of life, knowing that in this world no one is all knowing and therefore all of us need both love and charity.",
     "author": "Eleanor Roosevelt, diplomat and writer (11 Oct 1884-1962)",
-    "tags": ["right living"]
+    "tags": ["right living", "goodness", "love", "humility"]
   },
   {
     "quote": "The human mind is inspired enough when it comes to inventing horrors; it is when it tries to invent a heaven that it shows itself cloddish.",
     "author": "Evelyn Waugh, novelist (28 Oct 1903-1966)",
-    "tags": ["right living"]
+    "tags": ["life"]
   },
   {
     "quote": "A lack of patience changes the outcome.",
@@ -462,27 +462,27 @@
   {
     "quote": "The lust for comfort murders the passions of the soul.",
     "author": "Kahlil Gibran, mystic, poet, and artist (6 Jan 1883-1931)",
-    "tags": ["right living"]
+    "tags": ["life"]
   },
   {
     "quote": "No one is useless in this world who lightens the burden of it for anyone else.",
     "author": "Charles Dickens, novelist (7 Feb 1812-1870)",
-    "tags": ["right living"]
+    "tags": ["life"]
   },
   {
     "quote": "Freedom isn't secured by filling up on your heart's desire but by removing your desire.",
     "author": "Epictetus",
-    "tags": ["right living", "stoicism", "gratitude"]
+    "tags": ["right living", "stoicism", "gratitude", "minimalism"]
   },
   {
     "quote": "The only man I know who behaves sensibly is my tailor; he takes my measurements anew each time he sees me. The rest go on with their old measurements and expect me to fit them.",
     "author": "George Bernard Shaw",
-    "tags": ["right living"]
+    "tags": ["life"]
   },
   {
     "quote": "The past is to be respected and acknowledged, but not to be worshipped. It is our future in which we will find our greatness.",
     "author": "Pierre Trudeau, 15th Prime Minister of Canada (18 Oct 1919-2000)",
-    "tags": ["right living"]
+    "tags": ["life", "right living"]
   },
   {
     "quote": "His mother had often said, When you choose an action, you choose the consequences of that action. She had emphasized the corollary of this axiom even more vehemently: when you desired a consequence you had damned well better take the action that would create it.",
@@ -492,17 +492,17 @@
   {
     "quote": "Do not confuse effort with results. Just because you put in the effort does not mean you'll get the desired result. Results are accumulated in drops but lost in buckets. Make sure you're not undoing the things you're trying to accomplish.",
     "author": "Shane Parrish",
-    "tags": ["right living"]
+    "tags": ["right living", "work"]
   },
   {
     "quote": "Too often we underestimate the power of a touch, a smile, a kind word, a listening ear, an honest compliment, or the smallest act of caring, all of which have the potential to turn a life around.",
     "author": "Leo Buscaglia, author, speaker and professor (31 Mar 1924-1998)",
-    "tags": ["right living"]
+    "tags": ["kindness"]
   },
   {
     "quote": "Nature never said to me: Do not be poor. Still less did she say: Be rich. Her cry to me was always: Be independent.",
     "author": "Nicolas de Chamfort, writer (6 Apr 1741-1794)",
-    "tags": ["right living"]
+    "tags": ["life"]
   },
   {
     "quote": "Who are we but the stories we tell ourselves, about ourselves, and believe?",
@@ -522,7 +522,7 @@
   {
     "quote": "Those who are happiest are those who do the most for others.",
     "author": "Booker T. Washington",
-    "tags": ["right living"]
+    "tags": ["right living", "generosity"]
   },
   {
     "quote": "Nothing is worth more than this day.",
@@ -537,7 +537,7 @@
   {
     "quote": "If you do what everyone else is doing, you shouldn't be surprised to get the same results everyone else is getting.",
     "author": "Unknown",
-    "tags": []
+    "tags": ["decision making", "discipline"]
   },
   {
     "quote": "Many a false step was made by standing still.",
@@ -557,7 +557,7 @@
   {
     "quote": "If everything you do needs to work on a three-year time horizon, then you're competing against a lot of people. But if you're willing to invest on a seven-year time horizon, you're now competing against a fraction of those people, because very few companies are willing to do that.",
     "author": "Jeff Bezos",
-    "tags": []
+    "tags": ["strategy"]
   },
   {
     "quote": "Prioritization often matters more than productivity. Getting the right things done slowly is still much more effective than getting the wrong things done quickly.",
@@ -567,17 +567,17 @@
   {
     "quote": "Retreat, hell! We're not retreating, we're just advancing in a different direction.",
     "author": "Oliver P. Smith, Four Star General, US Marine Corp",
-    "tags": ["strategy", "decision making"]
+    "tags": ["adversity", "leadership"]
   },
   {
     "quote": "People waste years because they won't waste hours.",
     "author": "Unknown",
-    "tags": []
+    "tags": ["strategy", "decision making"]
   },
   {
     "quote": "A change in perspective is worth 80 IQ points.",
     "author": "Alan Kay, computer scientist (b. 17 May 1940)",
-    "tags": ["strategy", "decision making"]
+    "tags": ["humility"]
   },
   {
     "quote": "Only when the tide goes out do you discover who's been swimming naked.",
@@ -602,22 +602,27 @@
   {
     "quote": "We can't plan life. All we can do is be available for it.",
     "author": "Lauryn Hill",
-    "tags": []
+    "tags": ["life"]
+  },
+  {
+    "quote": "Do I not destroy my enemies when I make them my friends?",
+    "author": "Abraham Lincoln",
+    "tags": ["amends"]
   },
   {
     "quote": "Everything that hurts us, everything that is some way negative in a given situation, whether you will become wise or become wounded is your choice.",
     "author": "Sadhguru",
-    "tags": ["obstacles", "adversity", "resilience"]
+    "tags": ["obstacles", "adversity", "resilience", "fortitude"]
   },
   {
     "quote": "It's not what happens to you, but how you react to it that matters.",
     "author": "Epictetus",
-    "tags": ["obstacles", "adversity", "resilience", "stoicism"]
+    "tags": ["obstacles", "adversity", "resilience", "stoicism", "fortitude"]
   },
   {
     "quote": "How does it help, to make troubles heavier by bemoaning them?",
     "author": "Seneca",
-    "tags": ["obstacles", "adversity", "resilience", "stoicism"]
+    "tags": ["obstacles", "adversity", "resilience", "stoicism", "fortitude"]
   },
   {
     "quote": "If only you can go through difficult times with inner grace, you will see that every situation we face is an opportunity to enhance our lives.",
@@ -627,7 +632,7 @@
   {
     "quote": "What matters most is how well you walk through the fire.",
     "author": "Charles Bukowski",
-    "tags": ["obstacles", "adversity", "resilience"]
+    "tags": ["obstacles", "adversity", "resilience", "fortitude"]
   },
   {
     "quote": "Those things that hurt, instruct.",
@@ -642,37 +647,37 @@
   {
     "quote": "Create small victories anywhere you can to keep moral up.",
     "author": "Unknown",
-    "tags": []
+    "tags": ["leadership", "resilience", "obstacles", "adversity"]
   },
   {
     "quote": "You're in control of how you respond to the ups and downs of life. You're in control of how you talk to yourself.",
     "author": "Unknown",
-    "tags": ["right thinking"]
+    "tags": ["right thinking", "resilience", "adversity"]
   },
   {
     "quote": "How do you choose to suffer?",
     "author": "Unknown",
-    "tags": []
+    "tags": ["life", "fortitude"]
   },
   {
     "quote": "Pain is inevitable. Suffering is optional.",
     "author": "Unknown",
-    "tags": []
+    "tags": ["life", "fortitude"]
   },
   {
     "quote": "When you're up to your nose in shit, keep your mouth shut.",
     "author": "Jack Beauregard in My Name is Nobody (1973), played by Henry Fonda",
-    "tags": ["obstacles", "adversity", "resilience"]
+    "tags": ["obstacles", "adversity", "resilience", "fortitude"]
   },
   {
     "quote": "Stick with the situation at hand. Why is this so unbearable? Why can't I endure it? You'll be embarrassed to answer.",
     "author": "Marcus Aurelius",
-    "tags": ["obstacles", "adversity", "resilience", "stoicism"]
+    "tags": ["obstacles", "adversity", "resilience", "stoicism", "fortitude"]
   },
   {
     "quote": "The pity party was not well attended.",
     "author": "Unknown",
-    "tags": ["obstacles", "adversity", "resilience"]
+    "tags": ["obstacles", "adversity", "resilience", "fortitude"]
   },
   {
     "quote": "Happy events make life delightful but they do not lead to self-discovery and growth and freedom. That privilege is reserved to the things and persons and situations that cause us pain.",
@@ -697,7 +702,7 @@
   {
     "quote": "Life is like being at the dentist. You always think that the worst is still to come, and yet it is over already.",
     "author": "Otto von Bismarck",
-    "tags": ["obstacles", "adversity", "resilience", "mindfulness"]
+    "tags": ["adversity", "resilience", "mindfulness"]
   },
   {
     "quote": "With despair, true optimism begins: the optimism of the man who expects nothing, who knows he has no rights and nothing coming to him, who rejoices in counting on himself alone and in acting alone for the good of all.",
@@ -707,42 +712,42 @@
   {
     "quote": "No plan survives contact with the enemy.",
     "author": "Helmuth von Moltke the Elder",
-    "tags": ["obstacles", "adversity", "resilience"]
+    "tags": ["obstacles", "adversity", "resilience", "fortitude"]
   },
   {
     "quote": "Stop your entitled fucking whining and seize the opportunities around you.",
     "author": "Pat Mcnamara",
-    "tags": ["obstacles", "adversity", "resilience"]
+    "tags": ["obstacles", "adversity", "resilience", "fortitude"]
   },
   {
     "quote": "Persistence and resilience only come from having been given the chance to work through difficult problems.",
     "author": "Gever Tulley",
-    "tags": ["obstacles", "adversity", "resilience"]
+    "tags": ["obstacles", "adversity", "resilience", "fortitude"]
   },
   {
     "quote": "There is a realization from which all potential personal growth emerges. This is the realization that you are responsible for everything you do in your life, no matter the external circumstances.",
     "author": "Unknown",
-    "tags": []
+    "tags": ["life"]
   },
   {
     "quote": "That you will have some hard times and some discouraging times I have no question; but this is merely another way of saying that you will share the common lot.",
     "author": "Theodore Roosevelt in a letter to his son Theodore III",
-    "tags": ["obstacles", "adversity", "resilience"]
+    "tags": ["obstacles", "adversity", "resilience", "fortitude", "life"]
   },
   {
     "quote": "Success comes to the lowly and to the poorly talented, but the special characteristic of a great person is to triumph over the disasters and panics of human life.",
     "author": "Seneca, On Providence, 4.1",
-    "tags": ["obstacles", "adversity", "resilience", "stoicism"]
+    "tags": ["obstacles", "adversity", "resilience", "stoicism", "fortitude"]
   },
   {
     "quote": "Inaction breeds doubt and fear. Action breeds confidence and courage. If you want to conquer the negative elements in your life, don't sit at home and think about it. Go out and get busy!",
     "author": "Dale Carnegie",
-    "tags": ["obstacles", "adversity", "resilience"]
+    "tags": ["obstacles", "adversity", "resilience", "fortitude"]
   },
   {
     "quote": "It is a crime to despair. We must learn to draw from misfortune the means of future strength.",
     "author": "Winston Churchill",
-    "tags": ["obstacles", "adversity", "resilience"]
+    "tags": ["obstacles", "adversity", "resilience", "fortitude"]
   },
   {
     "quote": "The soul would have no rainbow had the eyes no tears.",
@@ -752,7 +757,7 @@
   {
     "quote": "Continuous effort -- not strength or intelligence -- is the key to unlocking our potential.",
     "author": "Winston Churchill",
-    "tags": ["obstacles", "adversity", "resilience"]
+    "tags": ["resilience", "discipline"]
   },
   {
     "quote": "Smooth seas don't make for skillful sailors.",
@@ -762,82 +767,82 @@
   {
     "quote": "To bear up under loss, to fight the bitterness of defeat and the weakness of grief, to be victor over anger, to smile when tears are close, to resist evil men and base instincts, to hate hate and to love love, to go on when it would seem good to die, to seek ever after the glory and the dream, to look up with unquenchable faith in something evermore about to be, that is what any man can do, and so be great.",
     "author": "Zane Grey, author (31 Jan 1872-1939)",
-    "tags": ["obstacles", "adversity", "resilience"]
+    "tags": ["obstacles", "adversity", "resilience", "fortitude"]
   },
   {
     "quote": "You are a great man; but how am I to know it, if fortune gives you no opportunity of showing your virtue? For a man cannot know himself without trial. No one ever learnt what he could do without putting himself to the test.",
     "author": "Seneca",
-    "tags": ["obstacles", "adversity", "resilience", "stoicism"]
+    "tags": ["obstacles", "adversity", "resilience", "stoicism", "fortitude"]
   },
   {
     "quote": "The secret of joy is the mastery of pain.",
     "author": "Anais Nin, writer (21 Feb 1903-1977)",
-    "tags": ["obstacles", "adversity", "resilience"]
+    "tags": ["obstacles", "adversity", "resilience", "fortitude"]
   },
   {
     "quote": "In the gap between who we wish one day to be and who we are at present, must come pain, anxiety, envy and humiliation.",
     "author": "Alain de Botton",
-    "tags": ["obstacles", "adversity", "resilience"]
+    "tags": ["obstacles", "adversity", "resilience", "fortitude"]
   },
   {
     "quote": "'What is the secret of your serenity?' Said the Master, 'Wholehearted cooperation with the inevitable.'",
     "author": "Anthony de Mello",
-    "tags": ["obstacles", "adversity", "resilience"]
+    "tags": ["obstacles", "adversity", "resilience", "fortitude"]
   },
   {
     "quote": "When I started counting my blessings, my whole life turned around.",
     "author": "Willie Nelson",
-    "tags": ["obstacles", "adversity", "resilience"]
+    "tags": ["gratitude", "resilience"]
   },
   {
     "quote": "It takes two things to bowl over a tree, a heavy wind outside and decay inside. Much of the moral wreckage is caused by inner cynicism, a disgust with life's futility, an inability to see sense in it. A person in that mood is an easy mark for the next high wind.",
     "author": "Art Sisson",
-    "tags": ["obstacles", "adversity", "resilience"]
+    "tags": ["obstacles", "adversity", "resilience", "fortitude"]
   },
   {
     "quote": "Your success and happiness lies in you. Resolve to keep happy, and your joy and you shall form an invincible host against difficulties.",
     "author": "Helen Keller",
-    "tags": ["obstacles", "adversity", "resilience"]
+    "tags": ["obstacles", "adversity", "resilience", "fortitude"]
   },
   {
     "quote": "Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.",
     "author": "Thich Nhat Hanh",
-    "tags": ["obstacles", "adversity", "resilience"]
+    "tags": ["equanimity"]
   },
   {
     "quote": "It's never too late to start over, never too late to be happy.",
     "author": "Jane Fonda",
-    "tags": ["obstacles", "adversity", "resilience"]
+    "tags": ["resilience", "acceptance", "equanimity"]
   },
   {
     "quote": "Most men pursue pleasure with such breathless haste that they hurry past it.",
     "author": "Søren Kierkegaard",
-    "tags": ["obstacles", "adversity", "resilience"]
+    "tags": ["mindfulness", "equanimity"]
   },
   {
     "quote": "Above all, be the heroine of your life, not the victim.",
     "author": "Nora Ephron",
-    "tags": ["obstacles", "adversity", "resilience"]
+    "tags": ["obstacles", "adversity", "resilience", "fortitude"]
   },
   {
     "quote": "When things go bad, don't go with them.",
     "author": "Elvis Presley",
-    "tags": ["obstacles", "adversity", "resilience"]
+    "tags": ["obstacles", "adversity", "resilience", "fortitude"]
   },
   {
     "quote": "Never give up, for that is just the place and time that the tide will turn.",
     "author": "Harriet Beecher Stowe",
-    "tags": ["obstacles", "adversity", "resilience"]
+    "tags": ["obstacles", "adversity", "resilience", "fortitude"]
   },
   {
     "quote": "Stay close to anything that makes you glad that you're alive.",
     "author": "Hafez",
-    "tags": ["obstacles", "adversity", "resilience"]
+    "tags": ["gratitude", "life"]
   },
   {
     "quote": "Unless you do the right things, the right things will not happen to you.",
     "author": "Sadhguru",
-    "tags": ["focus"]
+    "tags": ["focus", "discipline", "right living"]
   },
   {
     "quote": "What information consumes is rather obvious: it consumes the attention of its recipients. Hence a wealth of information creates a poverty of attention, and a need to allocate that attention efficiently among the overabundance of information sources that might consume it.",
@@ -852,22 +857,22 @@
   {
     "quote": "If more information was the answer, then we'd all be billionaires with perfect abs.",
     "author": "Unknown",
-    "tags": ["focus"]
+    "tags": ["focus", "discipline"]
   },
   {
     "quote": "If you learn something slowly, you forget it slowly. If you learn something very quickly, you forget it almost immediately.",
     "author": "Itzhak Perlman",
-    "tags": ["focus"]
+    "tags": ["focus", "learning"]
   },
   {
     "quote": "Imagine what you could accomplish if you weren't focused on being busy all the time.",
     "author": "Unknown",
-    "tags": []
+    "tags": ["focus", "discipline"]
   },
   {
     "quote": "When the pressure mounts to be productive every minute of the day, we have much to gain from doing all we can to carve out time to play.",
     "author": "Farnam Street",
-    "tags": ["focus"]
+    "tags": ["life"]
   },
   {
     "quote": "In a world of distraction, single-tasking is a super power.",
@@ -877,87 +882,87 @@
   {
     "quote": "Sit, sit. Walk, walk. Don't wobble.",
     "author": "Zen proverb",
-    "tags": ["focus", "buddhism"]
+    "tags": ["focus", "buddhism", "zen", "mindfulness"]
   },
   {
     "quote": "Choose the pain of discipline, not the pain of regret.",
     "author": "Derek Sivers",
-    "tags": ["focus"]
+    "tags": ["focus", "discipline"]
   },
   {
     "quote": "If you're thinking without writing, you only think you're thinking.",
     "author": "Leslie Lamport",
-    "tags": ["focus"]
+    "tags": ["focus", "learning"]
   },
   {
     "quote": "Bitter are the roots of study, but how sweet their fruit.",
     "author": "Cato",
-    "tags": ["focus"]
+    "tags": ["focus", "discipline", "learning"]
   },
   {
     "quote": "Three men make a tiger.",
     "author": "Chinese Proverb",
-    "tags": ["truth", "falsehoods"]
+    "tags": ["truth", "deception"]
   },
   {
     "quote": "A reliable way to make people believe in falsehoods is frequent repetition, because familiarity is not easily distinguished from truth.",
     "author": "Daniel Kahneman.",
-    "tags": ["truth", "falsehoods"]
+    "tags": ["truth", "deception"]
   },
   {
     "quote": "The fewer the facts, the stronger the opinion.",
     "author": "Arnold H. Glasow",
-    "tags": ["truth", "falsehoods"]
+    "tags": ["truth"]
   },
   {
     "quote": "The fact that we live at the bottom of a deep gravity well, on the surface of a gas-covered planet going around a nuclear fireball 90 million miles away and think this to be normal, is obviously some indication of how skewed our perspective tends to be.",
     "author": "Douglas Adams, author (11 Mar 1952-2001)",
-    "tags": ["truth", "falsehoods"]
+    "tags": ["truth", "perception"]
   },
   {
     "quote": "You are seeing everything in the mirror of your mind, and the mirror is wonky. First, fix it.",
     "author": "Sadhguru",
-    "tags": ["truth", "falsehoods"]
+    "tags": ["truth", "perception"]
   },
   {
     "quote": "You can't reason someone out of something they didn't reason themselves into.",
     "author": "Unknown",
-    "tags": ["truth", "falsehoods"]
+    "tags": ["truth"]
   },
   {
     "quote": "Where it is a duty to worship the sun, it is pretty sure to be a crime to examine the laws of heat.",
     "author": "John Morley, statesman and writer (24 Dec 1838-1923)",
-    "tags": ["truth", "falsehoods"]
+    "tags": ["truth"]
   },
   {
     "quote": "Where there is perception, there is deception.",
-    "author": "via Thich Nhat Hanh",
-    "tags": ["truth", "falsehoods"]
+    "author": "The Buddha",
+    "tags": ["truth", "perception", "deception", "buddhism"]
   },
   {
     "quote": "There is more wisdom in your body than in your deepest philosophy.",
     "author": "Friedrich Nietzsche",
-    "tags": ["truth", "falsehoods"]
+    "tags": ["truth"]
   },
   {
     "quote": "Truth-tellers are not always palatable. There is a preference for candy bars.",
     "author": "Gwendolyn Brooks, poet (7 Jun 1917-2000)",
-    "tags": ["truth", "falsehoods"]
+    "tags": ["truth"]
   },
   {
     "quote": "I would rather have questions that can't be answered than answers that can't be questioned.",
     "author": "Richard Feynman",
-    "tags": ["truth", "falsehoods"]
+    "tags": ["truth"]
   },
   {
     "quote": "A great deal of intelligence can be invested in ignorance when the need for illusion is deep.",
     "author": "Saul Bellow, writer, Nobel laureate (10 Jun 1915-2005)",
-    "tags": ["truth", "falsehoods"]
+    "tags": ["truth"]
   },
   {
     "quote": "In a room where people unanimously maintain a conspiracy of silence, one word of truth sounds like a pistol shot.",
     "author": "Czeslaw Milosz, poet and novelist (30 Jun 1911-2004)",
-    "tags": ["truth", "falsehoods"]
+    "tags": ["truth"]
   },
   {
     "quote": "Culture eats strategy for breakfast.",
@@ -1102,22 +1107,22 @@
   {
     "quote": "Life is what it is, and you either accept it or you don't. Either you let the current sweep you out to sea, or you swim against the current as it sweeps you out to sea.",
     "author": "Aaron Thier",
-    "tags": ["life"]
+    "tags": ["life", "acceptance", "equanimity"]
   },
   {
     "quote": "Life is not waiting for the storm to pass, it's learning how to dance in the rain.",
     "author": "Vivian Green",
-    "tags": ["life"]
+    "tags": ["life", "acceptance", "adversity", "obstacles", "equanimity"]
   },
   {
     "quote": "If a man knows not which port he sails, no wind is favorable.",
     "author": "Seneca",
-    "tags": ["life", "stoicism"]
+    "tags": ["life", "stoicism", "focus"]
   },
   {
     "quote": "Remember that reputation and integrity are your most valuable assets, and can be lost in a heartbeat.",
     "author": "Charlie Munger",
-    "tags": ["life"]
+    "tags": ["life", "integrity"]
   },
   {
     "quote": "The price of anything is the amount of life you exchange for it.",
@@ -1127,22 +1132,22 @@
   {
     "quote": "Be tolerant with others and strict with yourself.",
     "author": "Marcus Aurelius",
-    "tags": ["life", "stoicism"]
+    "tags": ["life", "stoicism", "discipline"]
   },
   {
     "quote": "By failing to prepare, you are preparing to fail.",
     "author": "Benjamin Franklin",
-    "tags": ["life"]
+    "tags": ["life", "discipline"]
   },
   {
     "quote": "What is important is seldom urgent and what is urgent is seldom important.",
     "author": "Dwight D. Eisenhower",
-    "tags": ["life"]
+    "tags": ["focus"]
   },
   {
     "quote": "It's not the years in your life that count. It's the life in your years.",
     "author": "Abraham Lincoln",
-    "tags": ["life"]
+    "tags": ["life", "right living"]
   },
   {
     "quote": "Pure hell forces action, but anything less can be endured with enough clever rationalization.",
@@ -1157,7 +1162,7 @@
   {
     "quote": "Whether you think you can or you think you can't, you are right.",
     "author": "Henry Ford",
-    "tags": ["life"]
+    "tags": ["focus", "discipline"]
   },
   {
     "quote": "Do not give what is holy to the dogs; nor cast your pearls before swine, lest they trample them under their feet, and turn and tear you in pieces.",
@@ -1167,22 +1172,22 @@
   {
     "quote": "If the first thing you do each morning is to eat a live frog, you can go through the day with the satisfaction of knowing that that is probably the worse things that is going to happen to you all day long.",
     "author": "Mark Twain",
-    "tags": ["life"]
+    "tags": ["discipline"]
   },
   {
     "quote": "A society that separates its scholars from its warriors, will have its thinking done by cowards and its fighting done by fools.",
     "author": "Thucydides",
-    "tags": ["life"]
+    "tags": ["politics"]
   },
   {
     "quote": "In a consumer society there are inevitably two kinds of slaves: the prisoners of addiction and the prisoners of envy.",
     "author": "Ivan Illich, philosopher and priest (4 Sep 1926-2002)",
-    "tags": ["life"]
+    "tags": ["minimalism"]
   },
   {
     "quote": "I learned thirty years ago that it is foolish to scold. I have enough trouble overcoming my own limitations without fretting over the fact that God has not seen fit to distribute evenly the gift of intelligence.",
     "author": "John Wanamaker",
-    "tags": ["life"]
+    "tags": ["life", "humility"]
   },
   {
     "quote": "Strength does not come from physical capacity. It comes from an indomitable will.",
@@ -1192,7 +1197,7 @@
   {
     "quote": "In life, everything is lost. Everything. At some point, everything goes away, and therefore to have anything at all, we must be willing to accommodate that loss.",
     "author": "Mark Manson",
-    "tags": ["life"]
+    "tags": ["life", "equanimity", "acceptance", "fortitude", "impermanence"]
   },
   {
     "quote": "It is not what life offers, but what we believe that life should offer that prevents us from experiencing happiness. So let go of your expectations and lower the importance of your personal happiness. Thereby you will lower the stress you experience from not being as happy as you think you should be.",
@@ -1202,11 +1207,16 @@
   {
     "quote": "We live in a society exquisitely dependent on science and technology, in which hardly anyone knows anything about science and technology.",
     "author": "Carl Sagan",
-    "tags": ["life"]
+    "tags": ["life", "science"]
   },
   {
     "quote": "There are two tragedies in life, not getting what you want, and getting it.",
     "author": "Oscar Wilde",
+    "tags": ["life", "equanimity"]
+  },
+  {
+    "quote": "Once you choose hope, anything's possible.",
+    "author": "Christopher Reeve",
     "tags": ["life"]
   },
   {
@@ -1217,47 +1227,52 @@
   {
     "quote": "Whoever does not have two-thirds of his day for himself, is a slave, whatever he may be: a statesman, a businessman, an official, or a scholar.",
     "author": "Friedrich Nietzsche",
-    "tags": ["life"]
+    "tags": ["right living"]
   },
   {
     "quote": "As long as a man stands in his own way, everything seems to be in his way.",
     "author": "Ralph Waldo Emerson",
-    "tags": ["life"]
+    "tags": ["right living", "equanimity"]
+  },
+  {
+    "quote": "H. sapiens is the species that invents symbols in which to invest passion and authority, then forgets that symbols are inventions.",
+    "author": "Joyce Carol Oates, writer (b. 16 Jun 1938)",
+    "tags": ["equanimity"]
   },
   {
     "quote": "When a man is wrapped up in himself he makes a pretty small package.",
     "author": "John Ruskin, author, art critic, and social reformer (8 Feb 1819-1900)",
-    "tags": ["life"]
+    "tags": ["humility"]
   },
   {
     "quote": "The more I read, the more I acquire, the more certain I am that I know nothing.",
     "author": "Voltaire",
-    "tags": ["life"]
+    "tags": ["humility"]
   },
   {
     "quote": "I never allow myself to have an opinion on anything that I don't know the other side's argument better than they do.",
     "author": "Charlie Munger",
-    "tags": ["life"]
+    "tags": ["right thinking", "learning"]
   },
   {
     "quote": "It isn't a sufficiently strong purpose to make you form the habit of doing the things you don't like to do for the very simple reason that it is easier to adjust ourselves to the hardships of a poor living than it is to adjust ourselves to the hardships of making a better one.",
-    "author": "The Common Denominator of Success, by Albert E. N. Gray",
-    "tags": ["life"]
+    "author": "Albert E. N. Gray - The Common Denominator of Success",
+    "tags": ["right living"]
   },
   {
     "quote": "I am an old man and have known a great many troubles, but most of them never happened.",
     "author": "Mark Twain",
-    "tags": ["life"]
+    "tags": ["equanimity"]
   },
   {
     "quote": "Whoever wants to be everywhere is nowhere. No wind blows for him who has no harbor.",
     "author": "Michel de Montaigne",
-    "tags": ["life"]
+    "tags": ["purpose", "focus"]
   },
   {
     "quote": "How we spend our days is, of course, how we spend our lives.",
     "author": "Annie Dillard, author (b. 30 Apr 1945)",
-    "tags": ["life"]
+    "tags": ["right living", "focus", "purpose"]
   },
   {
     "quote": "Life is like a library owned by an author. In it are a few books which he wrote himself, but most of them were written for him.",
@@ -1267,27 +1282,27 @@
   {
     "quote": "When events change, I change my mind. What do you do?",
     "author": "Paul Samuelson, Nobel Prize in Economics",
-    "tags": ["life"]
+    "tags": ["right thinking"]
   },
   {
     "quote": "The most important decision you make is to be in a good mood.",
     "author": "Voltaire",
-    "tags": ["life"]
+    "tags": ["right thinking"]
   },
   {
     "quote": "Those who compare the age in which their lot has fallen with a golden age which exists only in imagination, may talk of degeneracy and decay; but no man who is correctly informed as to the past, will be disposed to take a morose or desponding view of the present.",
     "author": "Thomas Babington Macaulay, author and statesman (25 Oct 1800-1859)",
-    "tags": ["life"]
+    "tags": ["right thinking"]
   },
   {
     "quote": "It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things.",
     "author": "Elinor Smith",
-    "tags": ["life"]
+    "tags": ["right living", "discipline"]
   },
   {
     "quote": "You are not what you think you are, but what you think, you are.",
     "author": "Brian Tracy",
-    "tags": ["life"]
+    "tags": ["right thinking"]
   },
   {
     "quote": "Complaining is not a strategy. You have to work with the world as you find it, not as you would have it be.",
@@ -1297,22 +1312,22 @@
   {
     "quote": "There are a few times in life when you leap up and the past that you'd been standing on falls away behind you, and the future you mean to land on is not yet in place, and for a moment you're suspended knowing nothing and no one, not even yourself.",
     "author": "Ann Patchett, writer (b. 2 Dec 1963)",
-    "tags": ["life"]
+    "tags": ["life", "fortitude"]
   },
   {
     "quote": "As in tennis, if one partner stops hitting the ball back, the other soon stops playing tennis.",
     "author": "Dr. Paul O",
-    "tags": ["life"]
+    "tags": ["relationships"]
   },
   {
     "quote": "The greatest of faults, I should say, is to be conscious of none.",
     "author": "Thomas Carlyle",
-    "tags": ["life"]
+    "tags": ["humility"]
   },
   {
     "quote": "Life is like stepping onto a boat which is about to sail out to sea and sink.",
     "author": "Zen Master Shunryu Suzuki",
-    "tags": ["life", "buddhism"]
+    "tags": ["life", "buddhism", "zen"]
   },
   {
     "quote": "If they give you ruled paper, write the other way.",
@@ -1322,7 +1337,7 @@
   {
     "quote": "In the case of good books, the point is not how many of them you can get through, but rather how many can get through to you.",
     "author": "Mortimer J. Adler, philosopher, educator, and author (28 Dec 1902-2001)",
-    "tags": ["life"]
+    "tags": ["learning"]
   },
   {
     "quote": "The most important discoveries will provide answers to questions that we do not yet know how to ask and will concern objects we have not yet imagined.",
@@ -1332,7 +1347,7 @@
   {
     "quote": "When there's a piano to be moved, don't reach for the stool.",
     "author": "Unknown",
-    "tags": ["life"]
+    "tags": ["life", "integrity"]
   },
   {
     "quote": "Act as if what you do makes a difference. It does.",
@@ -1342,22 +1357,22 @@
   {
     "quote": "Nothing ever comes to one, that is worth having, except as a result of hard work.",
     "author": "Booker T. Washington",
-    "tags": ["life"]
+    "tags": ["fortitude", "discipline"]
   },
   {
     "quote": "Not being able to govern events, I govern myself.",
     "author": "Michel de Montaigne, essayist (28 Feb 1533-1592)",
-    "tags": ["life"]
+    "tags": ["equanimity"]
   },
   {
     "quote": "For sleep, riches, and health to be truly enjoyed, they must be interrupted.",
     "author": "Jean Paul Richter, writer (21 Mar 1763-1825)",
-    "tags": ["life"]
+    "tags": ["adversity", "resilience", "fortitude"]
   },
   {
     "quote": "All I can do when the road bends; Is lean into the curve. And all I can do when the tank's run dry; Is see what's in reserve. And all I can do when the plans break down; Is stay on my feet. And all I can do at the end of the day is play on; Play on and keep the beat",
     "author": "Lin-Manuel Miranda (Keep the Beat from Vivo)",
-    "tags": ["life"]
+    "tags": ["adversity", "fortitude"]
   },
   {
     "quote": "Wise men learn more from fools than fools from the wise.",
@@ -1367,12 +1382,12 @@
   {
     "quote": "Like our stomachs, our minds are hurt more often by overeating than by hunger.",
     "author": "Petrarch",
-    "tags": ["life"]
+    "tags": ["right thinking", "minimalism"]
   },
   {
     "quote": "There is far more to life than getting things done.",
     "author": "Jon Kabat-Zinn",
-    "tags": ["life"]
+    "tags": ["life", "mindfulness", "buddhism", "minimalism"]
   },
   {
     "quote": "Lots of times you have to pretend to join a parade in which you're not really interested in order to get where you're going.",
@@ -1382,22 +1397,22 @@
   {
     "quote": "Do not think of knocking out another person's brains because he differs in opinion from you. It would be as rational to knock yourself on the head because you differ from yourself ten years ago.",
     "author": "Horace Mann, educational reformer (4 May 1796-1859)",
-    "tags": ["life"]
+    "tags": ["learning", "humility"]
   },
   {
     "quote": "It is easy in the world to live after the world's opinion, it is easy in solitude to live after your own; but the great man is he who, in the midst of the world, keeps with perfect sweetness the independence of solitude.",
     "author": "Ralph Waldo Emerson, writer and philosopher (25 May 1803-1882)",
-    "tags": ["life"]
+    "tags": ["life", "equanimity"]
   },
   {
     "quote": "I remember my grandfather telling me how each of us must live with a full measure of loneliness that is inescapable, and we must not destroy ourselves with our passion to escape the aloneness.",
     "author": "Jim Harrison",
-    "tags": ["life"]
+    "tags": ["life", "acceptance"]
   },
   {
     "quote": "No one can make you feel inferior without your consent.",
     "author": "Eleanor Roosevelt",
-    "tags": ["life"]
+    "tags": ["life", "compassion"]
   },
   {
     "quote": "Fearing no insult, asking for no crown, receive with indifference both flattery and slander, and do not argue with a fool.",
@@ -1407,12 +1422,12 @@
   {
     "quote": "Everyone confesses that exertion which brings out all the powers of body and mind is the best thing for us; but most people do all they can to get rid of it, and as a general rule nobody does much more than circumstances drive them to do.",
     "author": "Harriet Beecher Stowe, abolitionist and novelist (14 Jun 1811-1896)",
-    "tags": ["life"]
+    "tags": ["life", "discipline"]
   },
   {
     "quote": "Forgiveness is accepting the apology you will never receive.",
     "author": "Shawne Duperon",
-    "tags": ["life"]
+    "tags": ["life", "equanimity", "forgiveness"]
   },
   {
     "quote": "Pray, verb. To ask the laws of the universe to be annulled on behalf of a single petitioner confessedly unworthy.",
@@ -1432,32 +1447,32 @@
   {
     "quote": "The road to hell is not paved with good intentions. It is paved with lack of intention.",
     "author": "Dr. Gabor Maté",
-    "tags": ["life"]
+    "tags": ["life", "discipline"]
   },
   {
     "quote": "It is never my custom to use words lightly. If twenty-seven years in prison have done anything to us, it was to use the silence of solitude to make us understand how precious words are and how real speech is in its impact on the way people live and die.",
     "author": "Nelson Mandela, activist, South African president, Nobel laureate (18 Jul 1918-2013)",
-    "tags": ["life"]
+    "tags": ["right speech"]
   },
   {
     "quote": "I imagine one of the reasons people cling to their hates so stubbornly is because they sense, once hate is gone, they will be forced to deal with pain.",
     "author": "James Baldwin, writer (2 Aug 1924-1987)",
-    "tags": ["life"]
+    "tags": ["life", "anger", "forgiveness"]
   },
   {
     "quote": "Forgiveness means giving up all hope for a better past.",
-    "author": "Someone",
-    "tags": ["life"]
+    "author": "Unknown",
+    "tags": ["life", "forgiveness"]
   },
   {
     "quote": "There will come a time when you believe everything is finished. That will be the beginning.",
     "author": "Louis L'Amour",
-    "tags": ["life"]
+    "tags": ["life", "fortitude"]
   },
   {
     "quote": "You desire to know the art of living, my friend? It is contained in one phrase: make use of suffering.",
     "author": "Henri Frederic Amiel, philosopher and writer (27 Sep 1821-1881)",
-    "tags": ["life"]
+    "tags": ["life", "fortitude", "adversity"]
   },
   {
     "quote": "It is by character and not by intellect the world is won.",
@@ -1467,17 +1482,17 @@
   {
     "quote": "If I'm going to die, the best way to prepare is to quiet my mind and open my heart. If I'm going to live, the best is to quiet my mind and open my heart.",
     "author": "Ram Dass",
-    "tags": ["life"]
+    "tags": ["buddhism", "zen", "right living"]
   },
   {
-    "quote": "The problem is no longer getting people to express themselves but providing little gaps of solitude and silence in which they might eventually find something to say. … What a relief to have nothing to say, the right to say nothing, because only then is there a chance of framing … the thing that might be worth saying.",
+    "quote": "The problem is no longer getting people to express themselves but providing little gaps of solitude and silence in which they might eventually find something to say. What a relief to have nothing to say, the right to say nothing, because only then is there a chance of framing the thing that might be worth saying.",
     "author": "Gilles Deleuze",
-    "tags": ["life"]
+    "tags": ["focus", "peace of mind"]
   },
   {
     "quote": "You must live in the present, launch yourself on every wave, find your eternity in each moment. Fools stand on their island of opportunities and look toward another land. There is no other land; there is no other life but this.",
     "author": "Henry David Thoreau",
-    "tags": ["life"]
+    "tags": ["life", "mindfulness"]
   },
   {
     "quote": "Life is not about expecting, hoping, and wishing. It is about doing, being, and becoming.",
@@ -1492,12 +1507,12 @@
   {
     "quote": "When one door closes another door opens; but we so often look so long and so regretfully upon the closed door, that we do not see the ones which open for us.",
     "author": "Alexander Graham Bell, inventor (3 Mar 1847-1922)",
-    "tags": ["life"]
+    "tags": ["adversity", "resilience", "fortitude"]
   },
   {
     "quote": "If only we'd stop trying to be happy, we could have a pretty good time.",
     "author": "Edith Wharton",
-    "tags": ["life"]
+    "tags": ["peace of mind", "equanimity", "mindfulness"]
   },
   {
     "quote": "You do not find the happy life. You make it.",
@@ -1507,22 +1522,22 @@
   {
     "quote": "It's not enough to learn how to ride; you must also learn how to fall.",
     "author": "Mexican proverb",
-    "tags": ["life"]
+    "tags": ["adversity", "resilience", "fortitude"]
   },
   {
     "quote": "A man has to live with himself, and he should see to it that he always has good company.",
     "author": "Charles Evans Hughes, jurist (11 Apr 1862-1948)",
-    "tags": ["life"]
+    "tags": ["life", "right living"]
   },
   {
     "quote": "It is from hardship rather than ease that we gather wisdom. We need to develop the capacity to draw strength from our hardships.",
     "author": "Aung San Suu Kyi, Nobel Peace Prize laurate",
-    "tags": ["life"]
+    "tags": ["life", "adversity", "resilience", "fortitude"]
   },
   {
     "quote": "So act that your principle of action might safely be made a law for the whole world.",
     "author": "Immanuel Kant, philosopher (21 Apr 1724-1804)",
-    "tags": ["life"]
+    "tags": ["right living"]
   },
   {
     "quote": "Man can be the most affectionate and altruistic of creatures, yet he's potentially more vicious than any other. He is the only one who can be persuaded to hate millions of his own kind whom he has never seen and to kill as many as he can lay his hands on in the name of his tribe or his God.",
@@ -1537,22 +1552,22 @@
   {
     "quote": "There is a price to pay for speaking the truth. There is a bigger price for living a lie.",
     "author": "Cornel West, author and philosopher (b. 2 Jun 1953)",
-    "tags": ["life"]
+    "tags": ["truth"]
   },
   {
     "quote": "I cannot escape death; but cannot I escape the dread of it? Must I die trembling and lamenting?",
     "author": "Epictetus",
-    "tags": ["death", "stoicism"]
+    "tags": ["death", "stoicism", "fortitude"]
   },
   {
     "quote": "You could leave life right now. Let that determine what you do and say and think.",
     "author": "Marcus Aurelius",
-    "tags": ["death", "stoicism"]
+    "tags": ["death", "stoicism", "right living"]
   },
   {
     "quote": "Stop whatever you're doing for a moment and ask yourself: Am I afraid of death because I won't be able to do this anymore?",
     "author": "Marcus Aurelius",
-    "tags": ["death", "stoicism"]
+    "tags": ["death", "stoicism", "mindfulness"]
   },
   {
     "quote": "What man can you show me who places any value on his time, who reckons the worth of each day, who understands that he is dying daily? For we are mistaken when we look forward to death; the major portion of death has already passed. Whatever years lie behind us are in death's hands.",
@@ -1562,12 +1577,12 @@
   {
     "quote": "Invest the best hours of your day on the biggest opportunity, not the biggest problem.",
     "author": "Farnam Street",
-    "tags": ["work", "career"]
+    "tags": ["work", "career", "focus"]
   },
   {
     "quote": "The biggest generator of long term results is learning to do things when you don't feel like doing them. If you let excuses or emotion drive behavior, you're cheating yourself. Put aside the excuses and start doing what you need to do.",
     "author": "Farnam Street",
-    "tags": ["work", "career"]
+    "tags": ["work", "career", "focus", "discipline"]
   },
   {
     "quote": "You're not going to succeed at stuff you don't want to do.",
@@ -1577,32 +1592,32 @@
   {
     "quote": "Success isn't owned, it's rented. And the rent is due every day.",
     "author": "Rory Vaden",
-    "tags": ["work", "career"]
+    "tags": ["work", "career", "discipline", "focus"]
   },
   {
     "quote": "I don't need time. I need a deadline.",
     "author": "Duke Ellington",
-    "tags": ["work", "career"]
+    "tags": ["work", "career", "focus", "discipline"]
   },
   {
     "quote": "If you don't produce, you won't thrive, no matter how skilled or talented you are.",
     "author": "Cal Newport",
-    "tags": ["work", "career"]
+    "tags": ["work", "career", "discipline"]
   },
   {
     "quote": "If you don't prioritize your life, someone else will.",
     "author": "Greg McKeown",
-    "tags": ["work", "career"]
+    "tags": ["work", "career", "focus"]
   },
   {
     "quote": "Is your day by design or by default?",
     "author": "J.D. Meier",
-    "tags": ["work", "career"]
+    "tags": ["work", "career", "focus"]
   },
   {
     "quote": "It is not enough to be industrious; so are the ants. What are you industrious about?",
     "author": "Henry David Thoreau",
-    "tags": ["work", "career"]
+    "tags": ["work", "career", "focus"]
   },
   {
     "quote": "What the pupil must learn, if he learns anything at all, is that the world will do most of the work for you, provided you cooperate with it by identifying how it really works and aligning with those realities. If we do not let the world teach us, it teaches us a lesson.",
@@ -1617,12 +1632,12 @@
   {
     "quote": "Treat everyone like an unfinished product.",
     "author": "Unknown",
-    "tags": ["work", "career"]
+    "tags": ["humility", "compassion"]
   },
   {
     "quote": "The most powerful productivity tool ever invented is simply the word 'no'.",
     "author": "Unknown",
-    "tags": ["work", "career"]
+    "tags": ["work", "career", "focus"]
   },
   {
     "quote": "If I am so smart. Why am I not winning? Then check your ego and go build relationships with people you may not like and accomplish the mission",
@@ -1632,11 +1647,11 @@
   {
     "quote": "Never go to sleep without a request to your subconscious.",
     "author": "Thomas Edison",
-    "tags": ["work", "career"]
+    "tags": ["work", "career", "learning"]
   },
   {
     "quote": "Successful people are influenced by the desire for pleasing results. Failures are influenced by the desire for pleasing methods and are included to be satisfied with such results as can be obtained by doing things they like to do.",
-    "author": "The Common Denominator of Success, by Albert E. N. Gray",
+    "author": "Albert E. N. Gray, The Common Denominator of Success",
     "tags": ["work", "career"]
   },
   {
@@ -1657,17 +1672,17 @@
   {
     "quote": "A tremendous amount of work and preparation goes into becoming an overnight success.",
     "author": "Unknown",
-    "tags": ["work", "career"]
+    "tags": ["work", "career", "focus", "discipline"]
   },
   {
     "quote": "Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to a focus.",
     "author": "Alexander Graham Bell, inventor (3 Mar 1847-1922)",
-    "tags": ["work", "career"]
+    "tags": ["work", "career", "focus"]
   },
   {
-    "quote": "Don't aim at success—the more you aim at it and make it a target, the more you are going to miss it. For success, like happiness, cannot be pursued; it must ensue, and it only does so as the unintended side-effect of one's dedication.",
+    "quote": "Don't aim at success - the more you aim at it and make it a target, the more you are going to miss it. For success, like happiness, cannot be pursued; it must ensue, and it only does so as the unintended side-effect of one's dedication.",
     "author": "Viktor Frankl",
-    "tags": ["work", "career"]
+    "tags": ["work", "career", "discipline", "focus"]
   },
   {
     "quote": "Recently, I was asked if I was going to fire an employee who made a mistake that cost the company $600,000. No, I replied, I just spent $600,000 training him. Why would I want somebody to hire his experience?",
@@ -1722,7 +1737,7 @@
   {
     "quote": "Compassion is not weakness and concern for the unfortunate is not socialism.",
     "author": "Hubert Humphrey, US Vice President (27 May 1911-1978)",
-    "tags": ["politics"]
+    "tags": ["politics", "compassion"]
   },
   {
     "quote": "The crucial disadvantage of aggression, competitiveness, and skepticism as national characteristics is that these qualities cannot be turned off at five o'clock.",
@@ -1750,9 +1765,14 @@
     "tags": ["politics"]
   },
   {
+    "quote": "Since when do we have to agree with people to defend them from injustice?",
+    "author": "Lillian Hellman, playwright (20 Jun 1905-1984)",
+    "tags": ["politics"]
+  },
+  {
     "quote": "Wear your learning, like your watch, in a private pocket, and do not pull it out and strike it merely to show you have one. If you are asked what o'clock it is, tell it, but do not proclaim it hourly and unasked, like the watchman.",
     "author": "Lord Chesterfield, statesman and writer (22 Sep 1694-1773)",
-    "tags": ["humility", "modesty"]
+    "tags": ["humility", "modesty", "learning"]
   },
   {
     "quote": "Always remember that to argue, and win, is to break down the reality of the person you are arguing against. It is painful to lose your reality, so be kind, even if you are right.",
@@ -1762,27 +1782,27 @@
   {
     "quote": "The mark of the educated man is not in his boast that he has built his mountain of facts and stood on the top of it, but in his admission that there may be other peaks in the same range with men on the top of them, and that, though their views of the landscape may be different from his, they are nonetheless legitimate.",
     "author": "E.J. Pratt, poet (4 Feb 1882-1964)",
-    "tags": ["humility", "modesty"]
+    "tags": ["humility", "modesty", "learning"]
   },
   {
     "quote": "A fool is known by his speech, and a wise man by silence.",
     "author": "Pythagoras",
-    "tags": ["humility", "modesty"]
+    "tags": ["humility", "modesty", "right speech"]
   },
   {
     "quote": "Those who know do not talk. Those who talk do not know.",
     "author": "Lao Tzu",
-    "tags": ["humility", "modesty"]
+    "tags": ["humility", "modesty", "right speech"]
   },
   {
     "quote": "The softer you sing, the louder you're heard.",
     "author": "Donovan, musician (b. 10 May 1946)",
-    "tags": ["humility", "modesty"]
+    "tags": ["humility", "modesty", "right speech"]
   },
   {
     "quote": "Moment after moment, everyone comes out from nothingness. This is the true joy of life.",
     "author": "Shunryu Suzuki",
-    "tags": ["buddhism", "mindfulness"]
+    "tags": ["buddhism", "mindfulness", "zen"]
   },
   {
     "quote": "If you understand, things are just as they are. If you do not understand, things are just as they are.",
@@ -1837,6 +1857,6 @@
   {
     "quote": "A motorcycle is a bicycle with a pandemonium attachment and is designed for the especial use of mechanical geniuses, daredevils, and lunatics.",
     "author": "George Fitch, [https://cdnc.ucr.edu/?a=d&d=SFC19120610.2.78&e=-------en--20--1--txt-txIN--------1]",
-    "tags": []
+    "tags": ["motorcycling"]
   }
 ]
