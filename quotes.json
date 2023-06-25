@@ -1,5 +1,20 @@
 [
   {
+    "quote": "The only failure is not knowing how to be happy.",
+    "author": "Céline Dion",
+    "tags": ["equanimity"]
+  },
+  {
+    "quote": "Sadness flies away on the wings of time.",
+    "author": "Jean de La Fontaine",
+    "tags": ["fortitude", "impermanence"]
+  },
+  {
+    "quote": "What the Caterpillar calls the end of the world, the Master calls a butterfly.",
+    "author": "Richard Bach, writer (b. 23 Jun 1936)",
+    "tags": ["acceptance"]
+  },
+  {
     "quote": "How much more harmful are the consequences of anger, than the circumstances that aroused them in us.",
     "author": "Marcus Aurelius",
     "tags": ["anger", "stoicism"]
