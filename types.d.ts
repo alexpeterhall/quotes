@@ -3,3 +3,5 @@ interface quote {
   author: string
   tags: string[]
 }
+
+type tags = Set<string>
