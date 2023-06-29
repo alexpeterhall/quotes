@@ -1,4 +1,4 @@
-import {quotes, tags} from './quotes.json'
+import {quotes as QUOTES} from './quotes.json'
 
 export function formatQuote(quote: quote): string {
     if (quote.tags == null || quote.tags.length === 0) {
@@ -9,11 +9,11 @@ export function formatQuote(quote: quote): string {
   }
 }
 
-export function getRandomQuote(): quote {
+export function getRandomQuote(quotes: quote[]): quote {
   return quotes[Math.floor(quotes.length * Math.random())]
 }
 
-export function getAllTags(): tags {
+export function getAllTags(quotes: quote[]): tags {
   const allTags: Set<string> = new Set()
   quotes.forEach((quote) => {
     quote.tags.forEach((tag) => {
@@ -23,9 +23,9 @@ export function getAllTags(): tags {
   return allTags
 }
 
-// const allTags = getAllTags()
-// console.log('Number of Tags: ' + allTags.size)
-// allTags.forEach ( (tag) => console.log(tag))
+const allTags = getAllTags(QUOTES)
+console.log('Number of Tags: ' + allTags.size)
+allTags.forEach ( (tag) => console.log(tag))
 
-// console.log(formatQuote(getRandomQuote()))
+console.log(formatQuote(getRandomQuote(QUOTES)))
 
