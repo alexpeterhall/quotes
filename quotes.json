@@ -2031,6 +2031,31 @@
       "tags": ["equanimity", "acceptance", "peace of mind"]
     },
     {
+      "quote": "Be happy. It's one way of being wise.",
+      "author": "Colette (Sidonie-Gabrielle Colette)",
+      "tags": ["happiness"]
+    },
+    {
+      "quote": "There are some things you learn best in calm, and some in storm.",
+      "author": "Willa Cather",
+      "tags": ["adversity"]
+    },
+    {
+      "quote": "If you cannot find peace within yourself, you will never find it anywhere else.",
+      "author": "Marvin Gaye",
+      "tags": ["equanimity", "peace of mind"]
+    },
+    {
+      "quote": "I like living. I have sometimes been wildly, despairingly, acutely miserable, racked with sorrow, but through it all I still know quite certainly that just to be alive is a grand thing.",
+      "author": "Dame Agatha Christie",
+      "tags": ["adversity", "fortitude", "life"]
+    },
+    {
+      "quote": "When people are fanatically dedicated to political or religious faiths or any other kind of dogmas or goals, it's always because these dogmas or goals are in doubt.",
+      "author": "Robert M. Pirsig, author and philosopher (6 Sep 1928-2017)",
+      "tags": ["politics"]
+    },
+    {
       "quote": "The principal goal of education in the schools should be creating men and women who are capable of doing new things, not simply repeating what other generations have done; men and women who are creative, inventive, and discoverers, who can be critical and verify, and not accept, everything they are offered.",
       "author": "Jean Piaget, psychologist (9 Aug 1896-1980)",
       "tags": ["learning", "politics"]
@@ -2072,6 +2097,7 @@
     "generosity",
     "goodness",
     "gratitude",
+    "happiness",
     "humility",
     "impermanence",
     "integrity",
